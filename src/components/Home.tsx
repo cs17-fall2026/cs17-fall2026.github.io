@@ -8,6 +8,13 @@ export default function Labs() {
         <img src={cover} className="cover-image" alt="CS17 Cover" />
         <h2>Welcome to CS17! 🍎</h2>
         <p>
+          <b>
+            Note: this website is currently under construction in preparation
+            for the Fall 2026 iteration. Information and links may be outdated
+            -- please reference CAB!
+          </b>
+        </p>
+        <p>
           CS17 (CSCI 0170) is an intro computer science class at Brown
           University — emphasis on intro! We take your ideas very seriously and
           want to make a welcoming environment for everyone who wants to learn
@@ -23,69 +30,25 @@ export default function Labs() {
             </u>
           </b>{" "}
           to let us know if we can do anything better! If you have any questions
-          on content, post on Ed, come to TA hours or Spike's office hours.
-          We're all here to help!
-        </p>
-        <p>
-          Fill in this{" "}
-          <b>
-            <u>
-              <a
-                href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfdXhPdlLde_Dur9zUDt9CU7Tx5djqAeug1MA8H4ZfWMBeURw/viewform?usp=pp_url&entry.738272555=Fall+2028+or+Spring+2029&pli=1"
-                target="_blank"
-              >
-                form
-              </a>
-            </u>
-          </b>{" "}
-          if you want to be on a waitlist to enroll in CSCI0170.
+          on content, post on Ed, come to TA hours or Professor Klein's office
+          hours. We're all here to help!
         </p>
       </div>
       <hr></hr>
       <div>
         <h3>Useful Links</h3>
         <div className="useful-links">
-          <a
-            className="useful-links-btn"
-            href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfdXhPdlLde_Dur9zUDt9CU7Tx5djqAeug1MA8H4ZfWMBeURw/viewform?usp=pp_url&entry.738272555=Fall+2028+or+Spring+2029&pli=1"
-            target="_blank"
-          >
-            Waitlist Form
-          </a>
-          <a
-            className="useful-links-btn"
-            href="https://docs.google.com/document/d/1GtksfSOpsYO5ZrPZWnWGeNF-wlyGrqLCks4iBqg2ark/edit?usp=sharing"
-            target="_blank"
-          >
+          <a className="useful-links-btn" href="" target="_blank">
             Syllabus
           </a>
-          <a
-            className="useful-links-btn"
-            href="https://edstem.org/us/courses/85060/discussion"
-            target="_blank"
-          >
+          <a className="useful-links-btn" href="" target="_blank">
             EdStem
           </a>
-          <a
-            className="useful-links-btn"
-            href="https://www.gradescope.com/courses/1078762"
-            target="_blank"
-          >
+          <a className="useful-links-btn" href="" target="_blank">
             Gradescope
           </a>
-          <a
-            className="useful-links-btn"
-            href="https://hours.cs.brown.edu/"
-            target="_blank"
-          >
+          <a className="useful-links-btn" href="" target="_blank">
             Hours
-          </a>
-          <a
-            className="useful-links-btn"
-            href="https://csci017.cs.brown.edu/"
-            target="_blank"
-          >
-            RePlay
           </a>
           <a
             className="useful-links-btn"
@@ -93,13 +56,10 @@ export default function Labs() {
           >
             Head TA Email
           </a>
-          <a className="useful-links-btn" href="mailto:jfh@cs.brown.edu">
-            Spike's Email
+          <a className="useful-links-btn" href="mailto:klein@brown.edu">
+            Professor Klein's Email
           </a>
-          <a
-            className="useful-links-btn"
-            href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22732825af-14e0-48cf-95bc-b34700f500d2%22"
-          >
+          <a className="useful-links-btn" href="">
             Lecture Recordings
           </a>
         </div>
