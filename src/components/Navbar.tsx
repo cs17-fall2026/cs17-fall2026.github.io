@@ -43,6 +43,11 @@ export default function Navbar() {
             Staff
           </Link>
         </li>
+        <li>
+          <Link to="/calendar" onClick={handleLinkClick}>
+            Calendar
+          </Link>
+        </li>
       </ul>
     </nav>
   );
