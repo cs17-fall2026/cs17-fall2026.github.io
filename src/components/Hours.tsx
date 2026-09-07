@@ -7,7 +7,7 @@ export default function Hours() {
         Note: specific hours times and locations are subject to change. Check
         the course calendar for up-to-date information.{" "}
       </p>
-      <h3>Prof. Klein's Hours:</h3>
+      <h3>Prof. Klein's Hours</h3>
       <p>
         Mon 4-5 p.m., Wed 11 a.m. - 12 p.m., and by appointment in room CIT503.
       </p>
