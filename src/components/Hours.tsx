@@ -9,11 +9,11 @@ export default function Hours() {
       </p>
       <h3>Prof. Klein's Hours:</h3>
       <p>
-        Mon 4-5 p.m., Wed 11 a.m. - 12 p.m. and by appointment in room CIT503.
+        Mon 4-5 p.m., Wed 11 a.m. - 12 p.m., and by appointment in room CIT503.
       </p>
       <h3>TA Office Hours</h3>
 
-      <p>Wed 4-6 p.m. Thurs 4-8 p.m. Fri 4-8 p.m. in CIT201.</p>
+      <p>Wed 4-6 p.m., Thurs 4-8 p.m., and Fri 4-8 p.m. in CIT201.</p>
 
       <div>
         <h3>Calendar</h3>
