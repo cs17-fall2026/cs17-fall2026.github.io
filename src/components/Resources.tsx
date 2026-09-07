@@ -81,7 +81,7 @@ export default function Resources() {
       <h2>Calendar</h2>
       <p>Contains info on assignments, office hours, and labs.</p>
       <iframe
-        src="https://calendar.google.com/calendar/embed?src=c_8b58741d65ed249db50a44814b59495fa392335549c3d6cdca402f9081462fb9%40group.calendar.google.com&ctz=America%2FNew_York"
+        src="https://calendar.google.com/calendar/embed?src=c_55d3459061ed1052a1e63d7dcfa0717e9f68f47758e51a1067f112d183d36df2%40group.calendar.google.com&ctz=America%2FNew_York"
         className="calendar"
       ></iframe>
     </div>

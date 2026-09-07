@@ -5,8 +5,8 @@ export default function Labs() {
   return (
     <div className="page-content">
       <div>
-        <img src={cover} className="cover-image" alt="CS17 Cover" />
-        <h2>Welcome to CS17! 🍎</h2>
+        {/* <img src={cover} className="cover-image" alt="CS17 Cover" /> */}
+        <h2>Welcome to CS17! 🦑</h2>
         <p>
           <b>
             Note: this website is currently under construction in preparation
@@ -15,23 +15,11 @@ export default function Labs() {
           </b>
         </p>
         <p>
-          CS17 (CSCI 0170) is an intro computer science class at Brown
-          University — emphasis on intro! We take your ideas very seriously and
-          want to make a welcoming environment for everyone who wants to learn
-          CS — fill out our{" "}
-          <b>
-            <u>
-              <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSePgiTgkH0PmWIXtyEvw5_9HSkTFCyuwyAnUhpuI-Pe0EhDZg/viewform"
-                target="_blank"
-              >
-                anonymous feedback form
-              </a>
-            </u>
-          </b>{" "}
-          to let us know if we can do anything better! If you have any questions
-          on content, post on Ed, come to TA hours or Professor Klein's office
-          hours. We're all here to help!
+          CS17 (CSCI 0170) is an introductory computer science class at Brown
+          University. We take your ideas seriously and want to make a welcoming
+          environment for everyone who wants to learn CS. If you have any
+          questions on content, post on Ed, come to TA hours or Professor
+          Klein's office hours.
         </p>
       </div>
       <hr></hr>
@@ -67,7 +55,7 @@ export default function Labs() {
         <div>
           <h3>Calendar</h3>
           <iframe
-            src="https://calendar.google.com/calendar/embed?src=c_8b58741d65ed249db50a44814b59495fa392335549c3d6cdca402f9081462fb9%40group.calendar.google.com&ctz=America%2FNew_York"
+            src="https://calendar.google.com/calendar/embed?src=c_55d3459061ed1052a1e63d7dcfa0717e9f68f47758e51a1067f112d183d36df2%40group.calendar.google.com&ctz=America%2FNew_York"
             className="calendar"
             loading="lazy"
           ></iframe>

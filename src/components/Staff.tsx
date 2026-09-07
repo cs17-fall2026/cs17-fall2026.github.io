@@ -1,17 +1,17 @@
 import React, { useState } from "react";
-import apple from "../assets/apple.png";
-import daphne from "../assets/staff-images/daphne.jpg";
-import jiayi from "../assets/staff-images/jiayi.jpg";
-import julie from "../assets/staff-images/julie.jpg";
-import oliver from "../assets/staff-images/oliver.jpg";
-import ramesh from "../assets/staff-images/ramesh.jpg";
-import skylar from "../assets/staff-images/skylar.png";
-import sophia from "../assets/staff-images/sophia.jpg";
-import spike from "../assets/staff-images/spike.jpg";
-import taha from "../assets/staff-images/taha.jpg";
-import abby from "../assets/staff-images/abby.png";
-import nathan from "../assets/staff-images/nathan.png";
-import ellis from "../assets/staff-images/ellis.jpg";
+// import daphne from "../assets/staff-images/daphne.jpg";
+// import jiayi from "../assets/staff-images/jiayi.jpg";
+// import julie from "../assets/staff-images/julie.jpg";
+// import oliver from "../assets/staff-images/oliver.jpg";
+// import ramesh from "../assets/staff-images/ramesh.jpg";
+// import skylar from "../assets/staff-images/skylar.png";
+// import sophia from "../assets/staff-images/sophia.jpg";
+// import spike from "../assets/staff-images/spike.jpg";
+// import taha from "../assets/staff-images/taha.jpg";
+// import abby from "../assets/staff-images/abby.png";
+// import nathan from "../assets/staff-images/nathan.png";
+// import ellis from "../assets/staff-images/ellis.jpg";
+import axolotl from "../assets/staff-images/axolotl.png";
 
 interface StaffMember {
   name: string;
@@ -20,29 +20,19 @@ interface StaffMember {
   location: string;
   bio: string;
   img: string;
-  favoriteApple: string;
+  favoriteSeaAnimal?: string;
   email?: string;
 }
 
 const staffMembers: StaffMember[] = [
   {
-    name: "Spike",
-    email: "jfh@cs.brown.edu",
+    name: "Prof. Klein",
+    email: "klein@brown.edu",
     pronouns: "he/him",
-    location: "Barrington, RI",
-    bio: "I started in Math and drifted to CS many years ago. I've been at Brown long enough that I might have had your parents as students. My area of research has mostly been graphics, but in recent years I've been learning about proof assistants (tools for doing math with computers). ",
-    img: spike,
-    favoriteApple: "Wickson",
-  },
-  {
-    name: "Skylar",
-    email: "cs0170headtas@lists.brown.edu",
-    role: "HTA",
-    pronouns: "they/them",
-    location: "Madison, NJ / Orlando, FL (?)",
-    bio: "Hi everyone!! I'm a senior studying Computational Biology with a healthy dose of Lit Arts. When I'm not thinking about ReasonML, you can catch me playing banjo, reading Moby Dick, quilting, or doomscrolling on Facebook Marketplace. Super excited to meet you all :)",
-    img: skylar,
-    favoriteApple: "Dyer (RI native!)",
+    location: "Berkeley, CA",
+    bio: "I grew up in Berkeley, CA. I co-developed CS 17 in the late nineties. My research addresses algorithms for problems in graphs, e.g. the traveling-salesman problem. This summer, I worked at Amazon on optimization algorithms.  I previously worked at Lyft, where my code is used to process driver location data.  I'm into rock climbing and slacklining.",
+    img: axolotl,
+    favoriteSeaAnimal: "",
   },
   {
     name: "Julie",
@@ -50,82 +40,55 @@ const staffMembers: StaffMember[] = [
     role: "HTA",
     pronouns: "she/her",
     location: "Newton, MA",
-    bio: "Hello! I'm a junior studying computer science. I love drawing, crocheting, and going on long walks. I'm also a big coffee enthusiast and enjoy exploring cafes around campus. Looking forward to a good semester!",
-    img: julie,
-    favoriteApple: "Lady Alice",
+    bio: "Hello! I'm a senior studying computer science. In my free time, I like to draw, crochet, and sip coffee. A fun fact about me is that I've showered in the CIT before. Looking forward to a good semester!",
+    img: axolotl,
+    favoriteSeaAnimal: "",
   },
   {
     name: "Abby",
-    role: "UTA",
+    email: "cs0170headtas@lists.brown.edu",
+    role: "HTA",
     pronouns: "she/her",
     location: "Abington, MA",
-    bio: "Hey everyone! I am a sophomore studying CS-Econ. I love reading, hiking, Monopoly Deal, cold brew, and delicious breakfast sandwiches. Looking forward to a great semester! :)",
-    img: abby,
-    favoriteApple: "Gala",
+    bio: "Hey everyone! I am a junior studying CS-Econ. When I'm not in the CIT, you can find me reading, knitting, running, or learning to play guitar. I also love trying new coffee shops and restaurants in Providence. Looking forward to a great semester!!!",
+    img: axolotl,
+    favoriteSeaAnimal: "",
   },
   {
     name: "Daphne",
     role: "UTA",
     pronouns: "she/her",
     location: "Westchester, NY",
-    bio: "Hi guys, I'm a junior studying English and APMA-CS! I'm really into writing, reading (let me know if you have any recs!), watching obscure video essays, and listening to LE SSERAFIM. Really looking forward to meeting everyone :)",
-    img: daphne,
-    favoriteApple: "Belle d'Août",
+    bio: "Hi guys, I’m a senior studying English and APMA-CS! I’m really into writing, reading (let me know if you have any recs!), watching obscure video essays, and listening to LE SSERAFIM. Really looking forward to meeting everyone :)",
+    img: axolotl,
+    favoriteSeaAnimal: "",
   },
   {
-    name: "Ellis",
-    role: "Grad TA",
-    pronouns: "he/him",
-    location: "Dettenhausen, Germany",
-    bio: "Hi!! I'm a 5th year Master's student at Brown studying Cybersecurity. During my undergrad, I did Computer Science and IAPA. When I'm not camped out at the CIT, I enjoy reading, listening to Darknet Diaries, swimming, and exploring New England. Super excited to be your TA!",
-    img: ellis,
-    favoriteApple:
-      "Rhode Island Greening",
-  },
-  {
-    name: "Jiayi",
-    role: "UTA",
-    pronouns: "she/they",
-    location: "Ningbo, China",
-    bio: "Hi! I’m a sophomore from Ningbo, China studying Math-CS and IAPA/Engineering (still deciding!). I enjoy caffeine, hyperpop, long walks through busy streets, and plank challenges. Excited to meet yall!:)",
-    img: jiayi,
-    favoriteApple: "Granny Smith",
-  },
-  {
-    name: "Nathan",
-    role: "UTA",
-    pronouns: "he/him",
-    location: "St. Charles, Illinois",
-    bio: "Hey all! I'm a junior from the Chicago suburbs studying APMA-Econ. Outside of classes, I am a double bassist in the Brown University Orchestra and enjoy playing card games with friends. Looking forward to working with all of you!",
-    img: nathan,
-    favoriteApple: "Golden Delicious",
-  },
-  {
-    name: "Oliver",
-    role: "UTA",
-    pronouns: "he/him",
-    location: "Chevy Chase, MD",
-    bio: "Hey y’all! I’m really excited to have the chance to be a TA for CS17 this year. I’m originally from Chevy Chase, MD and I’ve spent a good amount of time in Vermont and North Carolina. Outside of being a TA, I’m on the Brownian Motion Ultimate Frisbee team and love riding my bike around campus. I can’t wait to meet everyone!",
-    img: oliver,
-    favoriteApple: "Reinette Clochard of the de Parthenay variety, of course",
-  },
-  {
-    name: "Ramesh",
-    role: "UTA",
-    pronouns: "he/him",
-    location: "Miami, FL",
-    bio: "Hi y'all! I'm a junior concentrating in astrophysics and CS. I was born in Miami and then moved to New York when I was thirteen. Outside of being your TA, I'm a coordinator for the Astronomy Club and president of Charcuterie Club! I'm super excited to get to know you all!",
-    img: ramesh,
-    favoriteApple: "Honeycrisp",
-  },
-  {
-    name: "Sophia",
+    name: "Kate",
     role: "UTA",
     pronouns: "she/her",
-    location: "New York, NY",
-    bio: "Hi! I'm a sophomore from NYC studying APMA-CS. I love cats, skiing, taiko, and grinding Beli. Looking forward to meeting you!",
-    img: sophia,
-    favoriteApple: "Winter Banana Apple",
+    location: "",
+    bio: "",
+    img: axolotl,
+    favoriteSeaAnimal: "",
+  },
+  {
+    name: "May",
+    role: "UTA",
+    pronouns: "she/her",
+    location: "Tokyo, Japan",
+    bio: "",
+    img: axolotl,
+    favoriteSeaAnimal: "",
+  },
+  {
+    name: "Nitya",
+    role: "UTA",
+    pronouns: "she/her",
+    location: "Mumbai, India",
+    bio: "Hi, I'm a junior studying Biochemistry & Molecular Biology. Outside of classes, I love dancing, sewing, and exploring new places and foods. Excited to meet everyone this semester!",
+    img: axolotl,
+    favoriteSeaAnimal: "",
   },
   {
     name: "Taha",
@@ -133,9 +96,17 @@ const staffMembers: StaffMember[] = [
     pronouns: "he/him",
     location: "Singapore",
     bio: "Hi! I'm a junior studying APMA-CS from Singapore. I like playing badminton, failing NYT games and reading random wikipedia articles. Super excited to get know all of you this semester!",
-    img: taha,
-    favoriteApple:
-      "have very little information with niche apple varieties :( probably honeycrisp",
+    img: axolotl,
+    favoriteSeaAnimal: "",
+  },
+  {
+    name: "Toren",
+    role: "UTA",
+    pronouns: "he/him",
+    location: "El Cerrito, CA",
+    bio: "Hey everyone! I'm a sophomore studying applied math and CS from the Bay Area. In my free time, I love playing Geoguessr, soccer, chess, and trying new boba places. Excited to meet you all!",
+    img: axolotl,
+    favoriteSeaAnimal: "",
   },
 ];
 
@@ -156,8 +127,8 @@ export default function Staff() {
         {featured.email && <h5>{featured.email}</h5>}
         <p>{featured.bio}</p>
         <p>
-          <b>Favorite apple: </b>
-          {featured.favoriteApple}
+          <b>Favorite sea animal: </b>
+          {featured.favoriteSeaAnimal}
         </p>
       </div>
 
@@ -178,7 +149,7 @@ export default function Staff() {
               <p>{member.bio}</p>
               <p>
                 <b>Favorite apple:</b>
-                {featured.favoriteApple}
+                {featured.favoriteSeaAnimal}
               </p>
             </div>
           ))}
