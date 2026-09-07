@@ -8,13 +8,6 @@ export default function Labs() {
         {/* <img src={cover} className="cover-image" alt="CS17 Cover" /> */}
         <h2>Welcome to CS17! 🦑</h2>
         <p>
-          <b>
-            Note: this website is currently under construction in preparation
-            for the Fall 2026 iteration. Information and links may be outdated
-            -- please reference CAB!
-          </b>
-        </p>
-        <p>
           CS17 (CSCI 0170) is an introductory computer science class at Brown
           University. We take your ideas seriously and aim to create a welcoming
           environment for everyone who wants to learn computer science. If you
