@@ -11,7 +11,7 @@ export default function Labs() {
           CS17 (CSCI 0170) is an introductory computer science class at Brown
           University. We aim to create a welcoming environment for everyone who
           wants to learn computer science. If you have any questions on content,
-          post on Ed, come to TA hours or Professor Klein's office hours.
+          post on Ed, or come to TA hours or Professor Klein's office hours.
         </p>
       </div>
       <hr></hr>
