@@ -9,7 +9,10 @@ export default function Resources() {
           <a href="" target="_blank">
             <div className="resource-box">Syllabus</div>
           </a>
-          <a href="" target="_blank">
+          <a
+            href="https://drive.google.com/file/d/15-CCasXPyJQoPoHYKDWKDUgSeWmUJoq1/view?usp=sharing"
+            target="_blank"
+          >
             <div className="resource-box">Common Mistakes</div>
           </a>
           <a href="" target="_blank">
