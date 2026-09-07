@@ -29,13 +29,25 @@ export default function Labs() {
           <a className="useful-links-btn" href="" target="_blank">
             Syllabus
           </a>
-          <a className="useful-links-btn" href="" target="_blank">
+          <a
+            className="useful-links-btn"
+            href="https://edstem.org/us/courses/104072/discussion"
+            target="_blank"
+          >
             EdStem
           </a>
-          <a className="useful-links-btn" href="" target="_blank">
+          <a
+            className="useful-links-btn"
+            href="https://www.gradescope.com/courses/1386732"
+            target="_blank"
+          >
             Gradescope
           </a>
-          <a className="useful-links-btn" href="" target="_blank">
+          <a
+            className="useful-links-btn"
+            href="https://cs17-fall2026.github.io/#/calendar"
+            target="_blank"
+          >
             Hours
           </a>
           <a
@@ -47,7 +59,10 @@ export default function Labs() {
           <a className="useful-links-btn" href="mailto:klein@brown.edu">
             Professor Klein's Email
           </a>
-          <a className="useful-links-btn" href="">
+          <a
+            className="useful-links-btn"
+            href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=02a0ca44-40b1-47b0-9997-b4bb0112a572"
+          >
             Lecture Recordings
           </a>
         </div>
