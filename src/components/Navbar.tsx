@@ -34,6 +34,11 @@ export default function Navbar() {
           </Link>
         </li>
         <li>
+          <Link to="/hours" onClick={handleLinkClick}>
+            Hours
+          </Link>
+        </li>
+        <li>
           <Link to="/resources" onClick={handleLinkClick}>
             Resources
           </Link>
@@ -41,11 +46,6 @@ export default function Navbar() {
         <li>
           <Link to="/staff" onClick={handleLinkClick}>
             Staff
-          </Link>
-        </li>
-        <li>
-          <Link to="/calendar" onClick={handleLinkClick}>
-            Calendar
           </Link>
         </li>
       </ul>

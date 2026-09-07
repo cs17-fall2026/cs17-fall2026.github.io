@@ -6,7 +6,7 @@ import Notes from "./components/Notes";
 import Resources from "./components/Resources";
 import Staff from "./components/Staff";
 import Home from "./components/Home";
-import Calendar from "./components/Calendar"
+import Hours from "./components/Hours"
 
 export default function App() {
   return (
@@ -18,7 +18,7 @@ export default function App() {
         <Route path="/notes" element={<Notes />} />
         <Route path="/resources" element={<Resources />} />
         <Route path="/staff" element={<Staff />} />
-        <Route path="/calendar" element={<Calendar />} />
+        <Route path="/hours" element={<Hours />} />
       </Routes>
     </Router>
   );

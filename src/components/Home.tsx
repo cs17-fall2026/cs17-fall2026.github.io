@@ -16,10 +16,10 @@ export default function Labs() {
         </p>
         <p>
           CS17 (CSCI 0170) is an introductory computer science class at Brown
-          University. We take your ideas seriously and want to make a welcoming
-          environment for everyone who wants to learn CS. If you have any
-          questions on content, post on Ed, come to TA hours or Professor
-          Klein's office hours.
+          University. We take your ideas seriously and aim to create a welcoming
+          environment for everyone who wants to learn computer science. If you
+          have any questions on content, post on Ed, come to TA hours or
+          Professor Klein's office hours.
         </p>
       </div>
       <hr></hr>
@@ -45,7 +45,7 @@ export default function Labs() {
           </a>
           <a
             className="useful-links-btn"
-            href="https://cs17-fall2026.github.io/#/calendar"
+            href="https://cs17-fall2026.github.io/#/hours"
             target="_blank"
           >
             Hours
