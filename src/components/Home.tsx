@@ -19,7 +19,11 @@ export default function Labs() {
       <div>
         <h3>Useful Links</h3>
         <div className="useful-links">
-          <a className="useful-links-btn" href="" target="_blank">
+          <a
+            className="useful-links-btn"
+            href="https://drive.google.com/file/d/1pnRgKYtoCXN_TMbuZNwIrH8FHVrpK8qj/view?usp=sharing"
+            target="_blank"
+          >
             Syllabus
           </a>
           <a
