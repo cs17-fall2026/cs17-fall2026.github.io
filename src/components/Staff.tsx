@@ -12,6 +12,13 @@ import React, { useState } from "react";
 // import nathan from "../assets/staff-images/nathan.png";
 // import ellis from "../assets/staff-images/ellis.jpg";
 import axolotl from "../assets/staff-images/axolotl.png";
+import philip from "../assets/staff-images/philip.png";
+import nitya from "../assets/staff-images/nitya.png";
+import may from "../assets/staff-images/may.png";
+import daphne from "../assets/staff-images/daphne.png";
+import toren from "../assets/staff-images/toren.png";
+import kate from "../assets/staff-images/kate.png";
+import julie from "../assets/staff-images/julie.png";
 
 interface StaffMember {
   name: string;
@@ -31,7 +38,7 @@ const staffMembers: StaffMember[] = [
     pronouns: "he/him",
     location: "Berkeley, CA",
     bio: "I grew up in Berkeley, CA. I co-developed CS 17 in the late nineties. My research addresses algorithms for problems in graphs, e.g. the traveling-salesman problem. This summer, I worked at Amazon on optimization algorithms.  I previously worked at Lyft, where my code is used to process driver location data.  I'm into rock climbing and slacklining.",
-    img: axolotl,
+    img: philip,
     favoriteSeaAnimal: "",
   },
   {
@@ -41,7 +48,7 @@ const staffMembers: StaffMember[] = [
     pronouns: "she/her",
     location: "Newton, MA",
     bio: "Hello! I'm a senior studying computer science. In my free time, I like to draw, crochet, and sip coffee. A fun fact about me is that I've showered in the CIT before. Looking forward to a good semester!",
-    img: axolotl,
+    img: julie,
     favoriteSeaAnimal: "",
   },
   {
@@ -60,7 +67,7 @@ const staffMembers: StaffMember[] = [
     pronouns: "she/her",
     location: "Westchester, NY",
     bio: "Hi guys, I’m a senior studying English and APMA-CS! I’m really into writing, reading (let me know if you have any recs!), watching obscure video essays, and listening to LE SSERAFIM. Really looking forward to meeting everyone :)",
-    img: axolotl,
+    img: daphne,
     favoriteSeaAnimal: "",
   },
   {
@@ -69,7 +76,7 @@ const staffMembers: StaffMember[] = [
     pronouns: "she/her",
     location: "",
     bio: "",
-    img: axolotl,
+    img: kate,
     favoriteSeaAnimal: "",
   },
   {
@@ -78,7 +85,7 @@ const staffMembers: StaffMember[] = [
     pronouns: "she/her",
     location: "Tokyo, Japan",
     bio: "",
-    img: axolotl,
+    img: may,
     favoriteSeaAnimal: "",
   },
   {
@@ -87,7 +94,7 @@ const staffMembers: StaffMember[] = [
     pronouns: "she/her",
     location: "Mumbai, India",
     bio: "Hi, I'm a junior studying Biochemistry & Molecular Biology. Outside of classes, I love dancing, sewing, and exploring new places and foods. Excited to meet everyone this semester!",
-    img: axolotl,
+    img: nitya,
     favoriteSeaAnimal: "",
   },
   {
@@ -105,7 +112,7 @@ const staffMembers: StaffMember[] = [
     pronouns: "he/him",
     location: "El Cerrito, CA",
     bio: "Hey everyone! I'm a sophomore studying applied math and CS from the Bay Area. In my free time, I love playing Geoguessr, soccer, chess, and trying new boba places. Excited to meet you all!",
-    img: axolotl,
+    img: toren,
     favoriteSeaAnimal: "",
   },
 ];

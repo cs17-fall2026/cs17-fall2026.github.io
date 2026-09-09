@@ -6,9 +6,19 @@ export default function Resources() {
       <div className="resource-div">
         <div className="resource-column">
           <p>General</p>
-          <a href="https://drive.google.com/file/d/1pnRgKYtoCXN_TMbuZNwIrH8FHVrpK8qj/view?usp=drive_link" target="_blank">
+          <a
+            href="https://drive.google.com/file/d/1pnRgKYtoCXN_TMbuZNwIrH8FHVrpK8qj/view?usp=drive_link"
+            target="_blank"
+          >
             <div className="resource-box">Syllabus</div>
           </a>
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdChIxovK56djGyp3ObYGQx7IxnotsViKgNnfeLhOHY4jJDGw/viewform"
+            target="_blank"
+          >
+            <div className="resource-box">Extension Form</div>
+          </a>
+
           <a
             href="https://drive.google.com/file/d/1pnRgKYtoCXN_TMbuZNwIrH8FHVrpK8qj/view?usp=sharing"
             target="_blank"

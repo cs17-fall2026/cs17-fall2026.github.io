@@ -1,11 +1,11 @@
 import React from "react";
-import cover from "../assets/cs17cover-optimized.webp";
+import cover from "../assets/cs17 cover.png";
 
 export default function Labs() {
   return (
     <div className="page-content">
       <div>
-        {/* <img src={cover} className="cover-image" alt="CS17 Cover" /> */}
+        <img src={cover} className="cover-image" alt="CS17 Cover" />
         <h2>Welcome to CS17! 🦑</h2>
         <p>
           CS17 (CSCI 0170) is an introductory computer science class at Brown
@@ -60,6 +60,12 @@ export default function Labs() {
             href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=02a0ca44-40b1-47b0-9997-b4bb0112a572"
           >
             Lecture Recordings
+          </a>
+          <a
+            className="useful-links-btn"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdChIxovK56djGyp3ObYGQx7IxnotsViKgNnfeLhOHY4jJDGw/viewform"
+          >
+            Extension Form
           </a>
         </div>
         <hr></hr>
