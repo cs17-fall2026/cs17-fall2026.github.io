@@ -84,9 +84,9 @@ const staffMembers: StaffMember[] = [
     role: "UTA",
     pronouns: "she/her",
     location: "Tokyo, Japan",
-    bio: "",
+    bio: "Hey everyone! I’m a sophomore from Tokyo studying Design Engineering. Outside of TA-ing you can find me playing video games, grinding Duolingo, or trying different cafés with friends. Super excited to get to know you all!",
     img: may,
-    favoriteSeaAnimal: "",
+    favoriteSeaAnimal: "Orcas",
   },
   {
     name: "Nitya",
