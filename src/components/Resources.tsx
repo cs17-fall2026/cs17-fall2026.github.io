@@ -6,7 +6,7 @@ export default function Resources() {
       <div className="resource-div">
         <div className="resource-column">
           <p>General</p>
-          <a href="" target="_blank">
+          <a href="https://drive.google.com/file/d/1pnRgKYtoCXN_TMbuZNwIrH8FHVrpK8qj/view?usp=drive_link" target="_blank">
             <div className="resource-box">Syllabus</div>
           </a>
           <a

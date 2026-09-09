@@ -214,14 +214,14 @@ const homeworks = [
   //   link: "https://drive.google.com/file/d/1W4Dww_G08uJsYgWnghPGYRfQTWv5RdBc/view?usp=sharing",
   //   source: "",
   // },
-  // {
-  //   title: "HW 1: Warmup",
-  //   out: new Date("3 Sep 2025 15:00:00 EST"),
-  //   due: new Date("10 Sep 2025 22:00:00 EST"),
-  //   late: new Date("11 Sep 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1x-gdW5Qo4bs6loamGQV0-1jk2a5QzjhP/view?usp=sharing",
-  //   source: "",
-  // },
+  {
+    title: "HW 1: Warmup",
+    out: new Date("9 Sep 2026 14:00:00 EST"),
+    due: new Date("18 Sep 2026 22:00:00 EST"),
+    late: new Date("20 Sep 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/1cEAyhYn6fdCQfsJfe8v-LN102MS9Pcpu/view?usp=drive_link",
+    source: "",
+  },
 ];
 
 const projects = [
