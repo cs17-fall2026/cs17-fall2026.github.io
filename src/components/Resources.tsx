@@ -86,7 +86,10 @@ export default function Resources() {
           >
             <div className="resource-box">EdStem Policies</div>
           </a>
-          <a href="" target="_blank">
+          <a
+            href="https://drive.google.com/file/d/1ecb-Gja8YrrKoUIPwnxJW9zGUUlYtLFn/view?usp=sharing"
+            target="_blank"
+          >
             <div className="resource-box">Course Policies</div>
           </a>
           <a
