@@ -47,7 +47,7 @@ export default function Resources() {
         </div>
 
         <div className="resource-column">
-          <p>Racket and ReasonML</p>
+          <p>Racket and OCaml</p>
           <a
             href="https://drive.google.com/file/d/1lGdCpsd7h5kVqcIZ_iWVRDw8SAH35ZiU/view?usp=sharing"
             target="_blank"
