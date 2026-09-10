@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 
 interface NoteData {
   date: string;
-  codeUrl?: string;
+  video: string;
   slidesUrl?: string;
   notesUrl?: string;
 }
@@ -197,12 +197,14 @@ const notesData: NoteData[] = [
   //   notesUrl:
   //     "https://drive.google.com/file/d/1UCIceKkjEZU7-Agx_3AIwme01Iu4-sVn/view?usp=sharing",
   // },
-  // {
-  //   date: "9/3: Welcome",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1skloaze3krgpx2QEQ52PFPLN1YTjJSyX/edit?slide=id.p1#slide=id.p1",
-  //   notesUrl: "",
-  // },
+  {
+    date: "9/3: Welcome",
+    slidesUrl:
+      "https://drive.google.com/file/d/1tR2UJiQfKXZS5zhn2wbHqDxwbs0Nxf3E/view?usp=sharing",
+    notesUrl: "",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a713b19a-a77e-474f-97db-b4c00128b4ff",
+  },
 ];
 
 const NotesTable: React.FC<{ notes: NoteData[] }> = ({ notes }) => {
@@ -211,15 +213,22 @@ const NotesTable: React.FC<{ notes: NoteData[] }> = ({ notes }) => {
       <thead>
         <tr>
           <th>Class</th>
-          <th>Slides</th>
-          <th>Code</th>
           <th>Notes</th>
+          <th>Slides</th>
+          <th>Video</th>
         </tr>
       </thead>
       <tbody>
         {notes.map((note, index) => (
           <tr key={index}>
             <td>{note.date}</td>
+            <td>
+              {note.notesUrl && (
+                <a href={note.notesUrl} target="_blank">
+                  Notes
+                </a>
+              )}
+            </td>
             <td>
               {note.slidesUrl && (
                 <a href={note.slidesUrl} target="_blank">
@@ -228,16 +237,9 @@ const NotesTable: React.FC<{ notes: NoteData[] }> = ({ notes }) => {
               )}
             </td>
             <td>
-              {note.codeUrl && (
-                <a href={note.codeUrl} target="_blank">
-                  Code
-                </a>
-              )}
-            </td>
-            <td>
-              {note.notesUrl && (
-                <a href={note.notesUrl} target="_blank">
-                  Notes
+              {note.video && (
+                <a href={note.video} target="_blank">
+                  Video
                 </a>
               )}
             </td>
