@@ -260,7 +260,7 @@ const NotesPage: React.FC = () => {
           Lecture recordings can be found{" "}
           <b>
             <u>
-              <a href="">here</a>
+              <a href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22f81d1dd9-73c1-4d0e-8425-b4bb01148408%22">here</a>
             </u>
           </b>
           .
