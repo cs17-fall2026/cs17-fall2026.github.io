@@ -29,8 +29,8 @@ export default function Navbar() {
           </Link>
         </li>
         <li>
-          <Link to="/notes" onClick={handleLinkClick}>
-            Notes
+          <Link to="/classes" onClick={handleLinkClick}>
+            Classes
           </Link>
         </li>
         <li>

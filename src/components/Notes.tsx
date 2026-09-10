@@ -257,16 +257,7 @@ const NotesPage: React.FC = () => {
   return (
     <>
       <div className="page-content">
-        <h1>Notes</h1>
-        <p>
-          Lecture recordings can be found{" "}
-          <b>
-            <u>
-              <a href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22f81d1dd9-73c1-4d0e-8425-b4bb01148408%22">here</a>
-            </u>
-          </b>
-          .
-        </p>
+        <h1>Classes</h1>
         <p>
           The typed notes are adapted from past years and might not 100% match
           what was said in lecture.
