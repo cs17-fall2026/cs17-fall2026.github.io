@@ -19,18 +19,18 @@ export default function Resources() {
             <div className="resource-box">Extension Form</div>
           </a>
 
-          <a
+          {/* <a
             href="https://drive.google.com/file/d/15-CCasXPyJQoPoHYKDWKDUgSeWmUJoq1/view?usp=sharing"
             target="_blank"
           >
             <div className="resource-box">Common Mistakes</div>
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://drive.google.com/file/d/1r1GGfnqT0AnhRfi7NCNAB7uCxTnvlfpk/view?usp=sharing"
             target="_blank"
           >
             <div className="resource-box">Design Recipe</div>
-          </a>
+          </a> */}
           {/* <a href="" target="_blank">
             <div className="resource-box">
               Allowed Built-In Procedures in Racket{" "}
