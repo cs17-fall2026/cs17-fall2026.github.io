@@ -46,7 +46,7 @@ export default function Resources() {
           </a> */}
         </div>
 
-        <div className="resource-column">
+        {/* <div className="resource-column">
           <p>Racket</p>
           <a
             href="https://drive.google.com/file/d/1lGdCpsd7h5kVqcIZ_iWVRDw8SAH35ZiU/view?usp=sharing"
@@ -60,14 +60,14 @@ export default function Resources() {
           >
             <div className="resource-box">Racket Style Guide</div>
           </a>
-          {/* <a
+          <a
             href="https://drive.google.com/file/d/1ed4wKXQ8tQRl9mEa0PoUMfOv0QCBK5EM/view?usp=sharing"
             target="_blank"
           >
             <div className="resource-box">Racket Teachpack</div>
-          </a> */}
+          </a>
 
-          {/* <a href="" target="_blank">
+          <a href="" target="_blank">
             <div className="resource-box">OCaml Debugging</div>
           </a>
           <a href="" target="_blank">
@@ -75,8 +75,8 @@ export default function Resources() {
           </a>
           <a href="" target="_blank">
             <div className="resource-box">Racket to OCaml</div>
-          </a> */}
-        </div>
+          </a>
+        </div> */}
 
         <div className="resource-column">
           <p>Policies and Guides</p>
