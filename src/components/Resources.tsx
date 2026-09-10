@@ -20,7 +20,7 @@ export default function Resources() {
           </a>
 
           <a
-            href="https://drive.google.com/file/d/1pnRgKYtoCXN_TMbuZNwIrH8FHVrpK8qj/view?usp=sharing"
+            href="https://drive.google.com/file/d/15-CCasXPyJQoPoHYKDWKDUgSeWmUJoq1/view?usp=sharing"
             target="_blank"
           >
             <div className="resource-box">Common Mistakes</div>
@@ -31,7 +31,7 @@ export default function Resources() {
           >
             <div className="resource-box">Design Recipe</div>
           </a>
-          <a href="" target="_blank">
+          {/* <a href="" target="_blank">
             <div className="resource-box">
               Allowed Built-In Procedures in Racket{" "}
             </div>
@@ -40,14 +40,14 @@ export default function Resources() {
             <div className="resource-box">
               Allowed Built-In Procedures in OCaml{" "}
             </div>
-          </a>
+          </a> */}
           {/* <a href="" target="_blank">
             <div className="resource-box">Analysis Table</div>
           </a> */}
         </div>
 
         <div className="resource-column">
-          <p>Racket and OCaml</p>
+          <p>Racket</p>
           <a
             href="https://drive.google.com/file/d/1lGdCpsd7h5kVqcIZ_iWVRDw8SAH35ZiU/view?usp=sharing"
             target="_blank"
@@ -60,12 +60,12 @@ export default function Resources() {
           >
             <div className="resource-box">Racket Style Guide</div>
           </a>
-          <a
+          {/* <a
             href="https://drive.google.com/file/d/1ed4wKXQ8tQRl9mEa0PoUMfOv0QCBK5EM/view?usp=sharing"
             target="_blank"
           >
             <div className="resource-box">Racket Teachpack</div>
-          </a>
+          </a> */}
 
           {/* <a href="" target="_blank">
             <div className="resource-box">OCaml Debugging</div>
