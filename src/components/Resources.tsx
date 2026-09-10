@@ -96,7 +96,7 @@ export default function Resources() {
             <div className="resource-box">Hours Policies</div>
           </a>
           <a
-            href="https://drive.google.com/drive/u/1/folders/17NsVF36eF1Oglq92P8slWt06u0d1wLZU"
+            href="https://drive.google.com/file/d/1bLh3WtuJon3_WHtgR2nlJ1IMidYzjRBO/view?usp=sharing"
             target="_blank"
           >
             <div className="resource-box">Pair Programming</div>
