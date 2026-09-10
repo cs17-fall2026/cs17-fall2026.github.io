@@ -67,7 +67,7 @@ export default function Resources() {
             <div className="resource-box">Racket Teachpack</div>
           </a>
 
-          <a href="" target="_blank">
+          {/* <a href="" target="_blank">
             <div className="resource-box">OCaml Debugging</div>
           </a>
           <a href="" target="_blank">
@@ -75,7 +75,7 @@ export default function Resources() {
           </a>
           <a href="" target="_blank">
             <div className="resource-box">Racket to OCaml</div>
-          </a>
+          </a> */}
         </div>
 
         <div className="resource-column">
