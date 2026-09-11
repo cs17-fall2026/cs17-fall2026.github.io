@@ -201,7 +201,8 @@ const notesData: NoteData[] = [
     date: "9/3: Welcome",
     slidesUrl:
       "https://drive.google.com/file/d/1tR2UJiQfKXZS5zhn2wbHqDxwbs0Nxf3E/view?usp=sharing",
-    notesUrl: "",
+    notesUrl: 
+      "https://drive.google.com/file/d/1vihlqGMIW7p7-UM8JEw9qE6pHe0M7NTp/view?usp=drive_link",
     video:
       "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a713b19a-a77e-474f-97db-b4c00128b4ff",
   },
