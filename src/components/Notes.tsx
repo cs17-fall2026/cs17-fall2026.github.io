@@ -190,15 +190,17 @@ const notesData: NoteData[] = [
   //   notesUrl:
   //     "https://drive.google.com/file/d/1b5oudHw_Wg3Tbx0NLMHWET04V770FKae/view?usp=sharing",
   // },
-  // {
-  //   date: "9/5: Arithmetic, Types and Keywords",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/16EAzqV9q47hqk7xdEWSGmU5amyF0lNQD/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl:
-  //     "https://drive.google.com/file/d/1UCIceKkjEZU7-Agx_3AIwme01Iu4-sVn/view?usp=sharing",
-  // },
   {
-    date: "9/3: Welcome",
+    date: "9/11: Data and Evaluations",
+    slidesUrl:
+      "https://drive.google.com/file/d/1gZqKAdo3BQavpJ0oCQeBNfw15GVM2dgL/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1EkZrVBZ7_yRse5l4hLYWyvuZJXZf2sbF/view?usp=drive_link",
+    video:
+      "",
+  },
+  {
+    date: "9/9: Welcome",
     slidesUrl:
       "https://drive.google.com/file/d/1tR2UJiQfKXZS5zhn2wbHqDxwbs0Nxf3E/view?usp=sharing",
     notesUrl: 
