@@ -240,10 +240,12 @@ const NotesTable: React.FC<{ notes: NoteData[] }> = ({ notes }) => {
               )}
             </td>
             <td>
-              {note.video && (
+              {note.video ? (
                 <a href={note.video} target="_blank">
                   Video
                 </a>
+              ) : (
+                <span className="unavailable">Unavailable</span>
               )}
             </td>
           </tr>
