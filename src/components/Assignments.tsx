@@ -116,15 +116,15 @@ const labs = [
   //   source:
   //     "https://drive.google.com/drive/folders/1DoCsSfjPFl7W6Uo6oIIld3BN86YYNcPw?usp=sharing",
   // },
-  // {
-  //   title: "Lab 1: Setup",
-  //   out: new Date("7 Sep 2025 12:45:00 EST"),
-  //   due: new Date("14 Sep 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/17oOZJbiA4zrC-vu-g7Y-w2T7LIsF0Fer/view?usp=sharing",
-  //   slide:
-  //     "https://docs.google.com/presentation/d/1mwsMYrznrFUu_vIK8-e0Mrxb1rEVR8yFlY5lkhUMDdY/edit?usp=sharing",
-  //   source: "",
-  // },
+  {
+    title: "Lab 1: Setup",
+    out: new Date("15 Sep 2026 14:00:00 EST"),
+    due: new Date("22 Sep 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/1HS4DTS5KmcF5bCAUEh5zEUM2Owgipwa2/view?usp=sharing",
+    slide:
+      "https://docs.google.com/presentation/d/1cdTakYVmfDPTUGf0_8Ctg7RBE5lsvIHGT1uzHJQ1zgw/edit?usp=sharing",
+    source: "",
+  },
 ];
 
 const homeworks = [
@@ -223,7 +223,6 @@ const homeworks = [
     source: "",
   },
 ];
-
 
 const projects = [
   // {
