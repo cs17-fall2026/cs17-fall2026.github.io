@@ -59,7 +59,7 @@ const staffMembers: StaffMember[] = [
     location: "Abington, MA",
     bio: "Hey everyone! I am a junior studying CS-Econ. When I'm not in the CIT, you can find me reading, knitting, running, or learning to play guitar. I also love trying new coffee shops and restaurants in Providence. Looking forward to a great semester!!!",
     img: axolotl,
-    favoriteSeaAnimal: "",
+    favoriteSeaAnimal: "Seahorse",
   },
   {
     name: "Daphne",
