@@ -183,13 +183,15 @@ const notesData: NoteData[] = [
   //   notesUrl:
   //     "https://drive.google.com/file/d/1Nnqgi7dt4S3LRca6q3u6ilhKyxQbaRQt/view?usp=sharing",
   // },
-  // {
-  //   date: "9/8: Expressions and Syntax",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1zrfWZ3fd01EFiylujHc-822WVPLyVYIQ/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl:
-  //     "https://drive.google.com/file/d/1b5oudHw_Wg3Tbx0NLMHWET04V770FKae/view?usp=sharing",
-  // },
+  {
+    date: "9/14: Algorithmics and Evaluation",
+    slidesUrl:
+      "https://drive.google.com/file/d/1hh7CaV_jBMQ0436LFstm3qC_VDVdZPZx/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1HnXq-Dk6QBJ4q2k0_TS65ARb4XKY-gyY/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b043295-8442-4304-ab84-b4c5012898d2"
+  },
   {
     date: "9/11: Data and Evaluations",
     slidesUrl:
