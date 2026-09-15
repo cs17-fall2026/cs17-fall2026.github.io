@@ -118,7 +118,7 @@ const labs = [
   // },
   {
     title: "Lab 1: Setup",
-    out: new Date("15 Sep 2026 14:00:00 EST"),
+    out: new Date("15 Sep 2026 11:00:00 EST"),
     due: new Date("22 Sep 2026 22:00:00 EST"),
     link: "https://drive.google.com/file/d/1HS4DTS5KmcF5bCAUEh5zEUM2Owgipwa2/view?usp=sharing",
     slide:
