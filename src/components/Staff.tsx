@@ -95,7 +95,7 @@ const staffMembers: StaffMember[] = [
     location: "Mumbai, India",
     bio: "Hi, I'm a junior studying Biochemistry & Molecular Biology. Outside of classes, I love dancing, sewing, and exploring new places and foods. Excited to meet everyone this semester!",
     img: nitya,
-    favoriteSeaAnimal: "",
+    favoriteSeaAnimal: "Starfish",
   },
   {
     name: "Ramesh",
@@ -122,7 +122,7 @@ const staffMembers: StaffMember[] = [
     location: "El Cerrito, CA",
     bio: "Hey everyone! I'm a sophomore studying applied math and CS from the Bay Area. In my free time, I love playing Geoguessr, soccer, chess, and trying new boba places. Excited to meet you all!",
     img: toren,
-    favoriteSeaAnimal: "",
+    favoriteSeaAnimal: "Humuhumunukunukuāpuaʻa",
   },
 ];
 
