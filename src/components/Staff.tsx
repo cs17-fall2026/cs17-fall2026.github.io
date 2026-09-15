@@ -49,7 +49,7 @@ const staffMembers: StaffMember[] = [
     location: "Newton, MA",
     bio: "Hello! I'm a senior studying computer science. In my free time, I like to draw, crochet, and sip coffee. A fun fact about me is that I've showered in the CIT before. Looking forward to a good semester!",
     img: julie,
-    favoriteSeaAnimal: "",
+    favoriteSeaAnimal: "Sea slug",
   },
   {
     name: "Abby",
@@ -68,7 +68,7 @@ const staffMembers: StaffMember[] = [
     location: "Westchester, NY",
     bio: "Hi guys, I’m a senior studying English and APMA-CS! I’m really into writing, reading (let me know if you have any recs!), watching obscure video essays, and listening to LE SSERAFIM. Really looking forward to meeting everyone :)",
     img: daphne,
-    favoriteSeaAnimal: "",
+    favoriteSeaAnimal: "Orca",
   },
   {
     name: "Kate",
@@ -95,6 +95,15 @@ const staffMembers: StaffMember[] = [
     location: "Mumbai, India",
     bio: "Hi, I'm a junior studying Biochemistry & Molecular Biology. Outside of classes, I love dancing, sewing, and exploring new places and foods. Excited to meet everyone this semester!",
     img: nitya,
+    favoriteSeaAnimal: "",
+  },
+  {
+    name: "Ramesh",
+    role: "UTA",
+    pronouns: "he/him",
+    location: "Miami, FL",
+    bio: "",
+    img: axolotl,
     favoriteSeaAnimal: "",
   },
   {
