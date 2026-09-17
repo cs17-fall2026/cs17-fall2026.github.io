@@ -174,15 +174,15 @@ const notesData: NoteData[] = [
   //   notesUrl:
   //     "https://drive.google.com/file/d/1qUnAcuBWEReS-FHvEfGAorjOz9w8ua-N/view?usp=sharing",
   // },
-  // {
-  //   date: "9/10: Expressions and Syntax",
-  //   codeUrl:
-  //     "https://drive.google.com/drive/folders/1U7aSlp3-CPQa6BRvc8txOGb1TDYoTNX8?usp=sharing",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1hM-8thr9Vi3XzLlJXT-vEUTbXBAVvgOc/edit?usp=drive_link&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl:
-  //     "https://drive.google.com/file/d/1Nnqgi7dt4S3LRca6q3u6ilhKyxQbaRQt/view?usp=sharing",
-  // },
+  {
+    date: "9/16: Lists and Bindings",
+    slidesUrl:
+      "https://drive.google.com/file/d/12ByXY3NtnvjTx_A_EvarR8qOyBjJ_8QX/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1pBnyAiFhFWzeo8pd7klUvVan4COIFvOe/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=491626a5-2083-4ad8-a823-b4c7012a45f6"
+  },
   {
     date: "9/14: Algorithmics and Evaluation",
     slidesUrl:
