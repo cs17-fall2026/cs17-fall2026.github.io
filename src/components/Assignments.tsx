@@ -206,14 +206,14 @@ const homeworks = [
   //   link: "https://drive.google.com/file/d/1UTkNBO__TBHD6egr-DFl6Y4B9EUnYMYe/view?usp=sharing",
   //   source: "",
   // },
-  // {
-  //   title: "HW 2: Procedures",
-  //   out: new Date("11 Sep 2025 04:00:00 EST"),
-  //   due: new Date("17 Sep 2025 22:00:00 EST"),
-  //   late: new Date("18 Sep 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1W4Dww_G08uJsYgWnghPGYRfQTWv5RdBc/view?usp=sharing",
-  //   source: "",
-  // },
+  {
+    title: "HW 2: Procedures",
+    out: new Date("19 Sep 2026 11:00:00 EST"),
+    due: new Date("25 Sep 2026 22:00:00 EST"),
+    late: new Date("27 Sep 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/1kRCQ8Z0o5jTZf2vXrNeRFlUVIQmO08av/view?usp=drive_link",
+    source: "",
+  },
   {
     title: "HW 1: Warmup",
     out: new Date("9 Sep 2026 14:00:00 EST"),
