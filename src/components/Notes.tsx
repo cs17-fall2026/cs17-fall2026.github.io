@@ -167,13 +167,15 @@ const notesData: NoteData[] = [
   //     "https://docs.google.com/presentation/d/1XPp__n7BJNsELL6d5RwjSDLciEE15Yb3/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
   //   notesUrl: "",
   // },
-  // {
-  //   date: "9/12: Rules and The Design Recipe",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1TgTRPRmHWY0Z3AADt_hd1A7oGSKXQieh/edit?usp=drive_link&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl:
-  //     "https://drive.google.com/file/d/1qUnAcuBWEReS-FHvEfGAorjOz9w8ua-N/view?usp=sharing",
-  // },
+{
+    date: "9/8: Procedure-valued Expressions",
+    slidesUrl:
+      "https://drive.google.com/file/d/1HUoW5oddlWGLpBOgjjCx3s752yDfbpPa/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/11yMuBR0GDnqc5NEMfAtZT3TesllnoAlq/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8a77dbf-b633-4e7a-aad3-b4c90129acb0"
+  },
   {
     date: "9/16: Lists and Bindings",
     slidesUrl:
