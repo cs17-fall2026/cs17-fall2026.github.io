@@ -1,16 +1,4 @@
-import React, { useState } from "react";
-// import daphne from "../assets/staff-images/daphne.jpg";
-// import jiayi from "../assets/staff-images/jiayi.jpg";
-// import julie from "../assets/staff-images/julie.jpg";
-// import oliver from "../assets/staff-images/oliver.jpg";
-// import ramesh from "../assets/staff-images/ramesh.jpg";
-// import skylar from "../assets/staff-images/skylar.png";
-// import sophia from "../assets/staff-images/sophia.jpg";
-// import spike from "../assets/staff-images/spike.jpg";
-// import taha from "../assets/staff-images/taha.jpg";
-// import abby from "../assets/staff-images/abby.png";
-// import nathan from "../assets/staff-images/nathan.png";
-// import ellis from "../assets/staff-images/ellis.jpg";
+import React, { useEffect, useState } from "react";
 import axolotl from "../assets/staff-images/axolotl.png";
 import philip from "../assets/staff-images/philip.png";
 import nitya from "../assets/staff-images/nitya.png";
@@ -18,9 +6,11 @@ import may from "../assets/staff-images/may.png";
 import daphne from "../assets/staff-images/daphne.png";
 import toren from "../assets/staff-images/toren.png";
 import kate from "../assets/staff-images/kate.png";
+import kate_alt from "../assets/staff-images/kate_alt.png";
 import julie from "../assets/staff-images/julie.png";
 import abby from "../assets/staff-images/abby.png";
 import taha from "../assets/staff-images/taha.png";
+import may_alt from "../assets/staff-images/may_alt.png";
 
 interface StaffMember {
   name: string;
@@ -29,9 +19,12 @@ interface StaffMember {
   location: string;
   bio: string;
   img: string;
+  hoverImg?: string;
   favoriteSeaAnimal?: string;
   email?: string;
 }
+
+const DEFAULT_HOVER_IMG = axolotl;
 
 const staffMembers: StaffMember[] = [
   {
@@ -79,7 +72,8 @@ const staffMembers: StaffMember[] = [
     location: "",
     bio: "",
     img: kate,
-    favoriteSeaAnimal: "",
+    hoverImg: kate_alt,
+    favoriteSeaAnimal: "Hermit crab",
   },
   {
     name: "May",
@@ -88,6 +82,7 @@ const staffMembers: StaffMember[] = [
     location: "Tokyo, Japan",
     bio: "Hey everyone! I’m a sophomore from Tokyo studying Design Engineering. Outside of TA-ing you can find me playing video games, grinding Duolingo, or trying different cafés with friends. Super excited to get to know you all!",
     img: may,
+    hoverImg: may_alt,
     favoriteSeaAnimal: "Orcas",
   },
   {
@@ -128,13 +123,45 @@ const staffMembers: StaffMember[] = [
   },
 ];
 
+interface StaffImageProps {
+  src: string;
+  hoverSrc: string;
+  alt: string;
+}
+
+function StaffImage({ src, hoverSrc, alt }: StaffImageProps) {
+  const [hovered, setHovered] = useState(false);
+
+  return (
+    <img
+      src={hovered ? hoverSrc : src}
+      alt={alt}
+      onMouseEnter={() => setHovered(true)}
+      onMouseLeave={() => setHovered(false)}
+    />
+  );
+}
+
 export default function Staff() {
   const [featured, setFeatured] = useState<StaffMember>(staffMembers[0]);
+
+  // Preload hover images so the swap doesn't flicker the first time.
+  useEffect(() => {
+    staffMembers.forEach((member) => {
+      const preload = new Image();
+      preload.src = member.hoverImg ?? DEFAULT_HOVER_IMG;
+    });
+  }, []);
 
   return (
     <div className="staff-body">
       <div className="staff-feature">
-        <img src={featured.img} alt={featured.name} />
+        <StaffImage
+          key={featured.name}
+          src={featured.img}
+          hoverSrc={featured.hoverImg ?? DEFAULT_HOVER_IMG}
+          alt={featured.name}
+        />
         <h1>{featured.name}</h1>
         {featured.role && <h3>{featured.role}</h3>}
         <h4>
@@ -158,7 +185,11 @@ export default function Staff() {
               className="staff-card"
               onClick={() => setFeatured(member)}
             >
-              <img src={member.img} alt={member.name} />
+              <StaffImage
+                src={member.img}
+                hoverSrc={member.hoverImg ?? DEFAULT_HOVER_IMG}
+                alt={member.name}
+              />
               <h1>{member.name}</h1>
               {member.role && <h3>{member.role}</h3>}
               <h4>
@@ -166,8 +197,8 @@ export default function Staff() {
               </h4>
               <p>{member.bio}</p>
               <p>
-                <b>Favorite apple:</b>
-                {featured.favoriteSeaAnimal}
+                <b>Favorite sea animal: </b>
+                {member.favoriteSeaAnimal}
               </p>
             </div>
           ))}
