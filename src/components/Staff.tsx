@@ -8,6 +8,7 @@ import toren from "../assets/staff-images/toren.png";
 import kate from "../assets/staff-images/kate.png";
 import kate_alt from "../assets/staff-images/kate_alt.png";
 import julie from "../assets/staff-images/julie.png";
+import julie_alt from "../assets/staff-images/julie_alt.png";
 import abby from "../assets/staff-images/abby.png";
 import taha from "../assets/staff-images/taha.png";
 import may_alt from "../assets/staff-images/may_alt.png";
@@ -44,6 +45,7 @@ const staffMembers: StaffMember[] = [
     location: "Newton, MA",
     bio: "Hello! I'm a senior studying computer science. In my free time, I like to draw, crochet, and sip coffee. A fun fact about me is that I've showered in the CIT before. Looking forward to a good semester!",
     img: julie,
+    hoverImg: julie_alt,
     favoriteSeaAnimal: "Sea slug",
   },
   {
