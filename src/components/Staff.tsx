@@ -19,6 +19,8 @@ import daphne from "../assets/staff-images/daphne.png";
 import toren from "../assets/staff-images/toren.png";
 import kate from "../assets/staff-images/kate.png";
 import julie from "../assets/staff-images/julie.png";
+import abby from "../assets/staff-images/abby.png";
+import taha from "../assets/staff-images/taha.png";
 
 interface StaffMember {
   name: string;
@@ -58,7 +60,7 @@ const staffMembers: StaffMember[] = [
     pronouns: "she/her",
     location: "Abington, MA",
     bio: "Hey everyone! I am a junior studying CS-Econ. When I'm not in the CIT, you can find me reading, knitting, running, or learning to play guitar. I also love trying new coffee shops and restaurants in Providence. Looking forward to a great semester!!!",
-    img: axolotl,
+    img: abby,
     favoriteSeaAnimal: "Seahorse",
   },
   {
@@ -111,8 +113,8 @@ const staffMembers: StaffMember[] = [
     role: "UTA",
     pronouns: "he/him",
     location: "Singapore",
-    bio: "Hi! I'm a junior studying APMA-CS from Singapore. I like playing badminton, failing NYT games and reading random wikipedia articles. Super excited to get know all of you this semester!",
-    img: axolotl,
+    bio: "Hi! I'm a senior studying APMA-CS from Singapore. I like playing badminton, failing NYT games and reading random wikipedia articles. Super excited to get know all of you this semester!",
+    img: taha,
     favoriteSeaAnimal: "",
   },
   {
