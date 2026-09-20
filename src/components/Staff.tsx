@@ -35,7 +35,7 @@ const staffMembers: StaffMember[] = [
     location: "Berkeley, CA",
     bio: "I grew up in Berkeley, CA. I co-developed CS 17 in the late nineties. My research addresses algorithms for problems in graphs, e.g. the traveling-salesman problem. This summer, I worked at Amazon on optimization algorithms.  I previously worked at Lyft, where my code is used to process driver location data.  I'm into rock climbing and slacklining.",
     img: philip,
-    favoriteSeaAnimal: "",
+    favoriteSeaAnimal: "Nematode",
   },
   {
     name: "Julie",
