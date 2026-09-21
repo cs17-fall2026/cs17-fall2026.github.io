@@ -162,13 +162,13 @@ const notesData: NoteData[] = [
   //   notesUrl: "",
   // },
   // {
-  //   date: "9/15: Recipe, Semantics, and Recursion",
+  //   date: "9/15: Recipe, Semantics, andßRecursion",
   //   slidesUrl:
   //     "https://docs.google.com/presentation/d/1XPp__n7BJNsELL6d5RwjSDLciEE15Yb3/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
   //   notesUrl: "",
   // },
 {
-    date: "9/8: Procedure-valued Expressions",
+    date: "9/18: Procedure-valued Expressions",
     slidesUrl:
       "https://drive.google.com/file/d/1HUoW5oddlWGLpBOgjjCx3s752yDfbpPa/view?usp=drive_link",
     notesUrl: 
