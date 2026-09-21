@@ -108,7 +108,7 @@ const staffMembers: StaffMember[] = [
     location: "Miami, FL",
     bio: "Hi y'all! I'm a senior concentrating in astrophysics and CS. I was born in Miami and then moved to New York when I was thirteen. Outside of being your TA, I'm a coordinator for the Astronomy Club and president of Charcuterie Club! I'm super excited to get to know you all!",
     img: ramesh,
-    favoriteSeaAnimal: "",
+    favoriteSeaAnimal: "Sea otter",
     email: "ramesh_perera-olivo@brown.edu",
   },
   {
