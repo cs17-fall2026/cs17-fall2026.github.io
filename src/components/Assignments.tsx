@@ -447,7 +447,7 @@ export default function Assignments() {
               </td>
               <td>{formatDate(lab.out, date_formatting_2)}</td>
               <td>{lab.slide ? <a href={lab.slide}>Slides</a> : ""}</td>
-              <td>{lab.source ? <a href={lab.source}>Setup</a> : ""}</td>
+              <td>{lab.source ? <a href={lab.source}>Source</a> : ""}</td>
             </tr>
           ))}
         </tbody>
