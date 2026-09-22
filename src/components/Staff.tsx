@@ -118,7 +118,7 @@ const staffMembers: StaffMember[] = [
     location: "Singapore",
     bio: "Hi! I'm a senior studying APMA-CS from Singapore. I like playing badminton, failing NYT games and reading random wikipedia articles. Super excited to get know all of you this semester!",
     img: taha,
-    favoriteSeaAnimal: "",
+    favoriteSeaAnimal: "Dolphin",
     email: "taha_ebrahim@brown.edu",
   },
   {
