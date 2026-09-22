@@ -161,12 +161,15 @@ const notesData: NoteData[] = [
   //     "https://docs.google.com/presentation/d/1sRCmDc_7WXj-RW3IaLCBZadMUCfssq6A/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
   //   notesUrl: "",
   // },
-  // {
-  //   date: "9/15: Recipe, Semantics, andßRecursion",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1XPp__n7BJNsELL6d5RwjSDLciEE15Yb3/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl: "",
-  // },
+{
+    date: "9/21: Special Forms",
+    slidesUrl:
+      "https://drive.google.com/file/d/1SoqlXXjWD-edYkh2pXSNmMwnkqeFQdy0/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/13vgIrMvp7x_N1fG-M37jSZB_XI0US27c/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a2e974c-a3c5-46f0-a36e-b4cc012852f7"
+  },
 {
     date: "9/18: Procedure-valued Expressions",
     slidesUrl:
