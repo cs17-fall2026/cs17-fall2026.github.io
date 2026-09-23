@@ -13,7 +13,7 @@ export default function Hours() {
       </p>
       <h3>TA Office Hours</h3>
 
-      <p>Wed 4-6 p.m., Thurs 4-8 p.m., and Fri 4-8 p.m. in CIT201.</p>
+      <p>Wed 12-2 p.m., Thurs 4-8 p.m., and Fri 4-8 p.m. in CIT201.</p>
 
       <div>
         <h3>Calendar</h3>
