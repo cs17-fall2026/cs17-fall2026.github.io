@@ -106,16 +106,16 @@ const labs = [
   //     "https://docs.google.com/presentation/d/18HaTBxZIB1HgJmTKsFuDqOI0vgtpNX52wEov-qSKn40/edit?usp=sharing",
   //   source: "",
   // },
-  // {
-  //   title: "Lab 2: Racket",
-  //   out: new Date("14 Sep 2025 10:00:00 EST"),
-  //   due: new Date("21 Sep 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1iAtPHGcI7lzA4IhFs2n8L4aOl8sMenhH/view?usp=sharing",
-  //   slide:
-  //     "https://docs.google.com/presentation/d/1mdpY2uANDq0BwJ0BqEyj8GdGSnHyGDiKuKyIvQozxVM/edit?usp=sharing",
-  //   source:
-  //     "https://drive.google.com/drive/folders/1DoCsSfjPFl7W6Uo6oIIld3BN86YYNcPw?usp=sharing",
-  // },
+  {
+    title: "Lab 2: Racket",
+    out: new Date("22 Sep 2026 10:00:00 EST"),
+    due: new Date("29 Sep 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/12sPYPF9qbZAVfKYoC6x--pv7nNeWCLQ1/view?usp=sharing",
+    slide:
+      "https://docs.google.com/presentation/d/1LslvDljuUPDrjz2zZ0bphXiOIAAg-Z74iLXMLo3UDNw/edit?usp=drive_link",
+    source:
+      "https://drive.google.com/drive/folders/1UHD6A3vgRkjOBlRUn2ad-Mb81Zk0Myc3?usp=sharing",
+  },
   {
     title: "Lab 1: Setup",
     out: new Date("15 Sep 2026 11:00:00 EST"),
@@ -447,7 +447,7 @@ export default function Assignments() {
               </td>
               <td>{formatDate(lab.out, date_formatting_2)}</td>
               <td>{lab.slide ? <a href={lab.slide}>Slides</a> : ""}</td>
-              <td>{lab.source ? <a href={lab.source}>Setup</a> : ""}</td>
+              <td>{lab.source ? <a href={lab.source}>Source</a> : ""}</td>
             </tr>
           ))}
         </tbody>
