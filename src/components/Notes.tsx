@@ -155,12 +155,15 @@ const notesData: NoteData[] = [
   //     "https://docs.google.com/presentation/d/1-IBAJfszfLn_0AYVO-Xpw0F27EBoyIk1/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
   //   notesUrl: "",
   // },
-  // {
-  //   date: "9/17: Lists and List Procedures",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1sRCmDc_7WXj-RW3IaLCBZadMUCfssq6A/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl: "",
-  // },
+{
+    date: "9/23: Shadowing and Recursion",
+    slidesUrl:
+      "https://drive.google.com/file/d/1qzRrLj1LiBkeCU2SyQey5uGowSSLnI6x/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1yB9ePVnyukoDIG_SHhOmTNsVaE9A3MRr/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b91cec4-51c5-4870-ba1a-b4ce0128ab7a"
+  },
 {
     date: "9/21: Special Forms",
     slidesUrl:
