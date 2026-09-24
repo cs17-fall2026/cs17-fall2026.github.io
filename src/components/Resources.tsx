@@ -31,6 +31,13 @@ export default function Resources() {
           >
             <div className="resource-box">Design Recipe (Lite Edition)</div>
           </a>
+
+          <a
+            href="https://drive.google.com/file/d/1P8UAePqPCldMJTLD5VUiLncH56uYzXng/view?usp=sharing"
+            target="_blank"
+          >
+            <div className="resource-box">Racket Style Guide</div>
+          </a>
           {/* <a href="" target="_blank">
             <div className="resource-box">
               Allowed Built-In Procedures in Racket{" "}
