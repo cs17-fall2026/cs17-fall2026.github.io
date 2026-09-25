@@ -198,14 +198,14 @@ const homeworks = [
   //   link: "https://drive.google.com/file/d/1UTkNBO__TBHD6egr-DFl6Y4B9EUnYMYe/view?usp=sharing",
   //   source: "",
   // },
-  // {
-  //   title: "HW 3a: Recursion, Part 1",
-  //   out: new Date("17 Sep 2025 00:00:00 EST"),
-  //   due: new Date("21 Sep 2025 22:00:00 EST"),
-  //   late: new Date("22 Sep 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1UTkNBO__TBHD6egr-DFl6Y4B9EUnYMYe/view?usp=sharing",
-  //   source: "",
-  // },
+  {
+    title: "HW 3: Recursion",
+    out: new Date("26 Sep 2026 11:00:00 EST"),
+    due: new Date("2 Oct 2026 22:00:00 EST"),
+    late: new Date("4 Oct 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/119r_k5adsIof0doeSCHY9RQNpejJ5zUz/view?usp=drive_link",
+    source: "",
+  },
   {
     title: "HW 2: Procedures",
     out: new Date("19 Sep 2026 11:00:00 EST"),
