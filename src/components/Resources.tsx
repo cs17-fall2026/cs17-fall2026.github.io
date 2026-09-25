@@ -29,7 +29,7 @@ export default function Resources() {
             href="https://drive.google.com/file/d/1r1GGfnqT0AnhRfi7NCNAB7uCxTnvlfpk/view?usp=sharing"
             target="_blank"
           >
-            <div className="resource-box">Design Recipe (Lite Edition)</div>
+            <div className="resource-box">Design Recipe (Complete Edition)</div>
           </a>
 
           <a
