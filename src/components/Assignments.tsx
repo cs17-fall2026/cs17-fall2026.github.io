@@ -247,17 +247,17 @@ const projects = [
   //   gearup:
   //     "https://drive.google.com/drive/folders/1c2WeU1oNxAIYD-bu7eHE5tbePPBoHzGc?usp=sharing",
   // },
-  // {
-  //   title: "Bignum",
-  //   out: new Date("18 Sep 2025 10:00:00 EST"),
-  //   due: new Date("3 Oct 2025 22:00:00 EST"),
-  //   late: new Date("4 Oct 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1Ml5oYO9_7IZFvjlXtUNLhLiUOKV6glVm/view?usp=sharing",
-  //   source:
-  //     "https://drive.google.com/drive/folders/1fDjATU9CkGl-fsib9vCBLPCTRzWCmGBz?usp=sharing",
-  //   gearup:
-  //     "https://drive.google.com/file/d/1sx_zfEcqHgY3cEUsEx9ZjL5Hh5y5ZWd4/view?usp=sharing",
-  // },
+  {
+    title: "Bignum",
+    out: new Date("25 Sep 2026 10:00:00 EST"),
+    due: new Date("9 Oct 2026 22:00:00 EST"),
+    late: new Date("11 Oct 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/1Ml5oYO9_7IZFvjlXtUNLhLiUOKV6glVm/view?usp=sharing",
+    // source:
+    //   "https://drive.google.com/drive/folders/1fDjATU9CkGl-fsib9vCBLPCTRzWCmGBz?usp=sharing",
+    // gearup:
+    //   "https://drive.google.com/file/d/1sx_zfEcqHgY3cEUsEx9ZjL5Hh5y5ZWd4/view?usp=sharing",
+  },
 ];
 
 function formatDate(date: Date, opts: Intl.DateTimeFormatOptions) {
