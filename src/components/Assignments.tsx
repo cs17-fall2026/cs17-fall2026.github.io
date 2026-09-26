@@ -252,7 +252,7 @@ const projects = [
     out: new Date("25 Sep 2026 10:00:00 EST"),
     due: new Date("9 Oct 2026 22:00:00 EST"),
     late: new Date("11 Oct 2026 22:00:00 EST"),
-    link: "https://drive.google.com/file/d/1Ml5oYO9_7IZFvjlXtUNLhLiUOKV6glVm/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1GgpxNGe_DPS1RtZjDcc_JcgnspGJW7eu/view",
     // source:
     //   "https://drive.google.com/drive/folders/1fDjATU9CkGl-fsib9vCBLPCTRzWCmGBz?usp=sharing",
     // gearup:
