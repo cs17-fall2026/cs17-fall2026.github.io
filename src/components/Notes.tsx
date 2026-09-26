@@ -149,12 +149,15 @@ const notesData: NoteData[] = [
   //   codeUrl:
   //     "https://drive.google.com/file/d/1a_WEayDTDDwi_xwFnEj8bJut1ktGTHOF/view?usp=sharing",
   // },
-  // {
-  //   date: "9/19: Recursion",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1-IBAJfszfLn_0AYVO-Xpw0F27EBoyIk1/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl: "",
-  // },
+{
+    date: "9/25: More Recursion and Binary",
+    slidesUrl:
+      "https://drive.google.com/file/d/1HkEojADJKPmmmqYCdT4zAwihjkvng3an/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1pW-Cc7CsAKnjiDpCLfgqiAnxSbWr66ur/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44cdb4d8-e818-4a67-9862-b4d00137c886"
+  },
 {
     date: "9/23: Shadowing and Recursion",
     slidesUrl:
