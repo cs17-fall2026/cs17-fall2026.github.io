@@ -97,15 +97,15 @@ const labs = [
   //     "https://docs.google.com/presentation/d/1TCsXJMjFEDsubgDGIVq4OrLoq1VirM9qwWLNhEuWlfE/edit?usp=drive_link",
   //   source: "",
   // },
-  // {
-  //   title: "Lab 3: Recursion",
-  //   out: new Date("21 Sep 2025 10:00:00 EST"),
-  //   due: new Date("28 Sep 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/18lx_6byViqggyd_8YKqj4hPove9jyVpc/view?usp=sharing",
-  //   slide:
-  //     "https://docs.google.com/presentation/d/18HaTBxZIB1HgJmTKsFuDqOI0vgtpNX52wEov-qSKn40/edit?usp=sharing",
-  //   source: "",
-  // },
+  {
+    title: "Lab 3: Recursion",
+    out: new Date("29 Sep 2026 10:00:00 EST"),
+    due: new Date("7 Oct 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/1Qp0OlVsq79gpuggSRyZOURc-DHuaviJa/view?usp=sharing",
+    slide:
+      "https://docs.google.com/presentation/d/173gHvIttL8WJhiNYtgndIGTid1PAcNvphqAwmEEVHh4/edit?usp=sharing",
+    source: "",
+  },
   {
     title: "Lab 2: Racket",
     out: new Date("22 Sep 2026 10:00:00 EST"),
@@ -230,22 +230,22 @@ const projects = [
   //   out: new Date("10 Nov 2025 12:00:00 EST"),
   //   due: new Date("5 Dec 2025 23:00:00 EST"),
   //   late: new Date("6 Dec 2025 23:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1_KJ4oZ6xBd46yatitmQzsLBclpio0H-2/view?usp=sharing",
+  //   link: "",
   //   source:
-  //     "https://drive.google.com/drive/folders/1K--PZ4Y0G7aXd5-Jv5iLZKzG1d7Q1IM1?usp=sharing",
+  //     "",
   //   gearup:
-  //     "https://drive.google.com/drive/folders/1clzKWWIU_m6fxSKvXTqLNh13A3dlKQmv?usp=sharing",
+  //     "",
   // },
   // {
   //   title: "Rackette",
   //   out: new Date("23 Oct 2025 15:00:00 EST"),
   //   due: new Date("7 Nov 2025 23:00:00 EST"),
   //   late: new Date("8 Nov 2025 23:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1S09UaFcMSw5EqBEpKWEJNzEHvnlXRRyU/view?usp=sharing",
+  //   link: "",
   //   source:
-  //     "https://drive.google.com/drive/folders/1zri08SFLv88wa43LTF0yRUliP0Y4z1Pp?usp=sharing",
+  //     "",
   //   gearup:
-  //     "https://drive.google.com/drive/folders/1c2WeU1oNxAIYD-bu7eHE5tbePPBoHzGc?usp=sharing",
+  //     "",
   // },
   {
     title: "Bignum",
