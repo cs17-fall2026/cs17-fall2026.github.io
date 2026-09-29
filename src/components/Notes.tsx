@@ -141,14 +141,15 @@ const notesData: NoteData[] = [
   //     "https://docs.google.com/presentation/d/1957veMjI0GkaEQv3pFbjAkUCIgDOkD8M/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
   //   notesUrl: "",
   // },
-  // {
-  //   date: "9/22: Why Diagrams Work & Two-argument recursion",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1souAHufHLO8LVZg1R0Lo8IJdcLK_tcPo/edit?slide=id.p1#slide=id.p1",
-  //   notesUrl: "",
-  //   codeUrl:
-  //     "https://drive.google.com/file/d/1a_WEayDTDDwi_xwFnEj8bJut1ktGTHOF/view?usp=sharing",
-  // },
+{
+    date: "9/28: Binary and Recursion Practice",
+    slidesUrl:
+      "https://drive.google.com/file/d/1fCo88TT5SG76PhDbblkkO01uug4kXpE1/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1qOMr63wJJqk6W-LxyjvIS5eIGgBl-G7-/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0376170-d858-44b3-87a6-b4d30128d85e"
+},
 {
     date: "9/25: More Recursion and Binary",
     slidesUrl:
@@ -157,7 +158,7 @@ const notesData: NoteData[] = [
       "https://drive.google.com/file/d/1pW-Cc7CsAKnjiDpCLfgqiAnxSbWr66ur/view?usp=drive_link",
     video:
       "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44cdb4d8-e818-4a67-9862-b4d00137c886"
-  },
+},
 {
     date: "9/23: Shadowing and Recursion",
     slidesUrl:
