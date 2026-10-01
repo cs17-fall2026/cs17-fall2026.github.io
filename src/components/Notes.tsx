@@ -135,12 +135,15 @@ const notesData: NoteData[] = [
   //     "https://docs.google.com/presentation/d/12DDadj8VFJTxi2588NYILtew31Z0H6TA/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
   //   notesUrl: "",
   // },
-  // {
-  //   date: "9/24: Operation Counting",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1957veMjI0GkaEQv3pFbjAkUCIgDOkD8M/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl: "",
-  // },
+{
+    date: "9/30: Computational Problems",
+    slidesUrl:
+      "https://drive.google.com/file/d/1XHBTfNb4liinTjcc33wleocitwYB4t1e/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1YElwIiGTPfT5BC32kUqcHaIBMuBXSUiU/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c06ea5e0-8953-4a66-8b05-b4d50128b076"
+},
 {
     date: "9/28: Binary and Recursion Practice",
     slidesUrl:
