@@ -183,7 +183,7 @@ const homeworks = [
   //     "https://drive.google.com/file/d/1Aoomnm8OH86Kh__Nb5ci2yI0zgMD8QzA/view?usp=sharing",
   // },
   {
-    title: "HW 4: More Recursion and HOPs",
+    title: "HW 4: More Recursion",
     out: new Date("3 Oct 2026 15:00:00 EST"),
     due: new Date("9 Oct 2026 22:00:00 EST"),
     late: new Date("11 Oct 2026 22:00:00 EST"),
