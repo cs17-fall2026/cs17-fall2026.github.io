@@ -129,12 +129,15 @@ const notesData: NoteData[] = [
   //     "https://drive.google.com/file/d/1x8TdfqaLejFYjo5q7EA3YfPWwYTKNZkd/view?usp=sharing",
   //   notesUrl: "",
   // },
-  // {
-  //   date: "9/26: Operation Counting (II), map, reversing a list ",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/12DDadj8VFJTxi2588NYILtew31Z0H6TA/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl: "",
-  // },
+{
+    date: "10/2: Recursion Analysis",
+    slidesUrl:
+      "https://drive.google.com/file/d/1gMDzrkqY0Y-dCTEwo9znUy7-ZRJwPNLn/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1Y6mJWF8G1_hXGIlXQRgUbKHPIltHHAaX/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=abd6a7c6-98b2-4c98-9685-b4d70128de63"
+},
 {
     date: "9/30: Computational Problems",
     slidesUrl:
