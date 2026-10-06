@@ -123,12 +123,15 @@ const notesData: NoteData[] = [
   //     "https://docs.google.com/presentation/d/1dvOBnY5lrLuN-NYfwZa2fZjFU_7bmJ3r/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
   //   notesUrl: "",
   // },
-  // {
-  //   date: "10/1: Operation Counting and Lambda",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1x8TdfqaLejFYjo5q7EA3YfPWwYTKNZkd/view?usp=sharing",
-  //   notesUrl: "",
-  // },
+{
+    date: "10/5: Higher-Order Procedures",
+    slidesUrl:
+      "https://drive.google.com/file/d/1plVsmH5DUAKn0ofAiZKT6VML5YiuNfHv/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1HJ9gqlZHAczcVEqqm40H8-AA9QGB08rz/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d56133fc-cd93-45b1-a1e5-b4da0128aefa"
+},
 {
     date: "10/2: Recursion Analysis",
     slidesUrl:
