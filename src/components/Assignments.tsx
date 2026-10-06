@@ -89,7 +89,7 @@ const labs = [
   //   source: "",
   // },
   {
-    title: "Lab 4: Natural Numbers",
+    title: "Lab 4: More Recursion",
     out: new Date("6 Oct 2026 10:00:00 EST"),
     due: new Date("13 Oct 2026 22:00:00 EST"),
     link: "https://drive.google.com/file/d/1S6TUfZBzojMW_Ec-Tos5TapEcO88aw_c/view?usp=sharing",
