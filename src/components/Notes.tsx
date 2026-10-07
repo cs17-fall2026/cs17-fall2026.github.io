@@ -117,12 +117,15 @@ const notesData: NoteData[] = [
   //     "https://drive.google.com/file/d/17Etqp-qKwFdwsiNNh2rRVXKFh4snqtBy/view?usp=sharing",
   //   notesUrl: "",
   // },
-  // {
-  //   date: "10/3: Floorsweepings",
-  //   slidesUrl:
-  //     "https://docs.google.com/presentation/d/1dvOBnY5lrLuN-NYfwZa2fZjFU_7bmJ3r/edit?usp=sharing&ouid=106249266650853110385&rtpof=true&sd=true",
-  //   notesUrl: "",
-  // },
+{
+    date: "10/7: Big-O and Sorting",
+    slidesUrl:
+      "https://drive.google.com/file/d/1C3t4ZDfK7TqFGr0x5_cysWpPW-viuqM7/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1_hmbHAVcFHh1L0__PXYHHGyjRYMW86im/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40046110-3d1a-4801-98a0-b4dc0128d7a7"
+},
 {
     date: "10/5: Higher-Order Procedures",
     slidesUrl:
