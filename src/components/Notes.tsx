@@ -111,12 +111,15 @@ const notesData: NoteData[] = [
   //     "https://drive.google.com/file/d/1650JtazjGjHIEFkhaNAdyD6pXDjcCqcP/view?usp=sharing",
   //   notesUrl: "",
   // },
-  // {
-  //   date: "10/6: Let and Combinatorics",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/17Etqp-qKwFdwsiNNh2rRVXKFh4snqtBy/view?usp=sharing",
-  //   notesUrl: "",
-  // },
+{
+    date: "10/9: Trees and Evaluation",
+    slidesUrl:
+      "https://drive.google.com/file/d/1qkPg7e_lCFVTw22sm1lxHXyA8DSTHP90/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1r35LvCS2ccx79-dTNQ9DtpLMl4o59grw/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=800c395c-1966-4390-86a5-b4de01287b5b"
+},
 {
     date: "10/7: Big-O and Sorting",
     slidesUrl:
