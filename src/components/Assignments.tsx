@@ -173,15 +173,15 @@ const homeworks = [
   //   source:
   //     "https://drive.google.com/drive/folders/1oQaMtlQYSCCjENPqc-vcit69oFtV9coq?usp=sharing",
   // },
-  // {
-  //   title: "HW 5: More HOPs and Subsets",
-  //   out: new Date("1 Oct 2025 12:00:00 EST"),
-  //   due: new Date("8 Oct 2025 22:00:00 EST"),
-  //   late: new Date("9 Oct 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1PP4rPYuIaKn1epRATuvGSe5ch7A4rXJs/view?usp=sharing",
-  //   source:
-  //     "https://drive.google.com/file/d/1Aoomnm8OH86Kh__Nb5ci2yI0zgMD8QzA/view?usp=sharing",
-  // },
+  {
+    title: "HW 5: More HOPs and Subsets",
+    out: new Date("10 Oct 2026 11:00:00 EST"),
+    due: new Date("16 Oct 2026 22:00:00 EST"),
+    late: new Date("18 Oct 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/13VDxA8yWXVOcpSyEzqg51i8_8BBlBNUq/view?usp=drive_link",
+    source:
+      "https://drive.google.com/file/d/1xXv6J1bh7rH057hFh-GkBnYZldBVQ-Av/view?usp=drive_link",
+  },
   {
     title: "HW 4: More Recursion",
     out: new Date("3 Oct 2026 15:00:00 EST"),
