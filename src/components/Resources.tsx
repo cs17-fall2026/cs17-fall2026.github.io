@@ -38,6 +38,21 @@ export default function Resources() {
           >
             <div className="resource-box">Racket Style Guide</div>
           </a>
+
+          <a
+            href="https://drive.google.com/file/d/1zAYakWwCxL0Y7P-Z4XS1pmsrYJPzf_6A/view?usp=sharing"
+            target="_blank"
+          >
+            <div className="resource-box">OCaml Setup Guide</div>
+          </a>
+
+          <a
+            href="https://drive.google.com/file/d/1itkdtu-s-V3qu__34-9tmNPvS9EbsFIg/view?usp=sharing"
+            target="_blank"
+          >
+            <div className="resource-box">Racket to OCaml</div>
+          </a>
+
           {/* <a href="" target="_blank">
             <div className="resource-box">
               Allowed Built-In Procedures in Racket{" "}

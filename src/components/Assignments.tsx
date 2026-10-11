@@ -79,15 +79,15 @@ const labs = [
   //     "https://docs.google.com/presentation/d/11VRY5cqT9Tw_sQZ887d37fQt46tK2lWS2SlZq-UoqNc/edit?usp=sharing",
   //   source: "",
   // },
-  // {
-  //   title: "Lab 5: Search",
-  //   out: new Date("Oct 5 2025 10:00:00 EST"),
-  //   due: new Date("12 Oct 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1nbc-l52U88lm4OZbXR5tX2D5Ul-iQ1Y7/view?usp=sharing",
-  //   slide:
-  //     "https://docs.google.com/presentation/d/1oL_kiXvmxGCzYnYttOwPVcIMIJrpj32TrROf2xk53Ug/edit?usp=sharing",
-  //   source: "",
-  // },
+  {
+    title: "Lab 5: Search",
+    out: new Date("13 Oct 2026 10:00:00 EST"),
+    due: new Date("20 Oct 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/16civHwZgMTJ0-uHritzyIorPDMt8ds6F/view?usp=sharing",
+    slide:
+      "https://docs.google.com/presentation/d/1bTgdw3aJ3RGXKTWxjdlATJiuVXqtJjHwdjTOQ4mL83Y/edit?usp=sharing",
+    source: "",
+  },
   {
     title: "Lab 4: More Recursion",
     out: new Date("6 Oct 2026 10:00:00 EST"),
