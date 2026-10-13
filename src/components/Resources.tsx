@@ -46,12 +46,12 @@ export default function Resources() {
             <div className="resource-box">OCaml Setup Guide</div>
           </a>
 
-          <a
+          {/* <a
             href="https://drive.google.com/file/d/1itkdtu-s-V3qu__34-9tmNPvS9EbsFIg/view?usp=sharing"
             target="_blank"
           >
             <div className="resource-box">Racket to OCaml</div>
-          </a>
+          </a> */}
 
           {/* <a href="" target="_blank">
             <div className="resource-box">
