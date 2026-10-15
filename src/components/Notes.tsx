@@ -105,12 +105,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1R6sy2TYgCop91xt1LOK_HZ7A3u0v2DPf/view?usp=sharing",
   // },
-  // {
-  //   date: "10/8: The End of Racket",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1650JtazjGjHIEFkhaNAdyD6pXDjcCqcP/view?usp=sharing",
-  //   notesUrl: "",
-  // },
+{
+    date: "10/14: Analysis and Lists in Memory",
+    slidesUrl:
+      "https://drive.google.com/file/d/1aEeJUmh85jyDdtA_FBBPoRv9VZrnfEuo/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1GS8F6h3bBzJ4a96mjJ38QmLb_q1XcSFM/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c75f39a6-3496-4a03-bbc8-b4e30128b298"
+},
 {
     date: "10/9: Trees and Evaluation",
     slidesUrl:
