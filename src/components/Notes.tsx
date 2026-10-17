@@ -100,11 +100,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1Cb-fFoCRAxAIhjWdB3wzkE66rkUYzNiA/view?usp=sharing",
   // },
-  // {
-  //   date: "10/10: More ReasonML",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1R6sy2TYgCop91xt1LOK_HZ7A3u0v2DPf/view?usp=sharing",
-  // },
+{
+    date: "10/16: Introduction to OCaml!",
+    slidesUrl:
+      "https://drive.google.com/file/d/1-882N27FCdBCTDBQ24GNKlT2GOpT2EVp/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1_rtpXrRiKvyLzFhfZ3A_E_zM4MDqfWXN/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab218a5b-12f6-4232-8b3c-b4e50129074e"
+},
 {
     date: "10/14: Analysis and Lists in Memory",
     slidesUrl:
