@@ -70,15 +70,15 @@ const labs = [
   //   source:
   //     "https://drive.google.com/drive/folders/124n2g7In_STTKYIMHqmYbRxq8SA0kM2K?usp=sharing",
   // },
-  // {
-  //   title: "Lab 6: Reason",
-  //   out: new Date("14 Oct 2025 10:00:00 EST"),
-  //   due: new Date("19 Oct 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1_9-CfEE5Dw636lwzDDWXPqNNTt_33wWz/view?usp=sharing",
-  //   slide:
-  //     "https://docs.google.com/presentation/d/11VRY5cqT9Tw_sQZ887d37fQt46tK2lWS2SlZq-UoqNc/edit?usp=sharing",
-  //   source: "",
-  // },
+  {
+    title: "Lab 6: OCaml",
+    out: new Date("20 Oct 2026 14:00:00 EST"),
+    due: new Date("27 Oct 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/1VbRctvkZJU8Htb4J0zspaqWvSurA5bUi/view?usp=sharing",
+    slide:
+      "https://docs.google.com/presentation/d/1sfAu46PiFpV6zkBoX2zrOx4p2dvXv8XIV3vqT1vp6U0/edit?usp=sharing",
+    source: "",
+  },
   {
     title: "Lab 5: Search",
     out: new Date("13 Oct 2026 14:00:00 EST"),
