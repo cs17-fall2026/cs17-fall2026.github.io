@@ -95,11 +95,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1IJEp75LPKxQCrdXHEgYYeE-6pPjZqb0u/view?usp=sharing",
   // },
-  // {
-  //   date: "10/15: Even more ReasonML",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1Cb-fFoCRAxAIhjWdB3wzkE66rkUYzNiA/view?usp=sharing",
-  // },
+{
+    date: "10/19: Pattern Matching",
+    slidesUrl:
+      "https://drive.google.com/file/d/1g1mnTbJ0nq808YecaV73LAv1SoqQllo0/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1YvXOe0-CdWhubtzMwxL7DrHdGkq_tOj1/view?usp=drive_link",
+    video:
+      ""
+},
 {
     date: "10/16: Introduction to OCaml!",
     slidesUrl:
