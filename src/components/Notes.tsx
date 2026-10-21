@@ -102,7 +102,7 @@ const notesData: NoteData[] = [
     notesUrl: 
       "https://drive.google.com/file/d/1YvXOe0-CdWhubtzMwxL7DrHdGkq_tOj1/view?usp=drive_link",
     video:
-      ""
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a9389fd-2f35-4fd0-a9f8-b4e900cb5039"
 },
 {
     date: "10/16: Introduction to OCaml!",
