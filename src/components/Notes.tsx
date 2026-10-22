@@ -90,11 +90,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1xojy2XUvZoqy6R7XDrqSwwC2KlFf7KjD/view?usp=sharinghttps://drive.google.com/file/d/1xojy2XUvZoqy6R7XDrqSwwC2KlFf7KjD/view?usp=sharing",
   // },
-  // {
-  //   date: "10/17: Rackette Preview",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1IJEp75LPKxQCrdXHEgYYeE-6pPjZqb0u/view?usp=sharing",
-  // },
+{
+    date: "10/21: Variant Types",
+    slidesUrl:
+      "https://drive.google.com/file/d/1VO4xvz2OW1Mr9I5yrOc80x4VzsZAjK2k/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/17A_jiUlh9RClf9PJW-xi4F4Mnt0sB1_M/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3dcff677-9f33-49fe-87be-b4ea0128a927"
+},
 {
     date: "10/19: Pattern Matching",
     slidesUrl:
