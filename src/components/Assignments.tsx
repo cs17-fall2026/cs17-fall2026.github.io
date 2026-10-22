@@ -59,17 +59,15 @@ const labs = [
   //   source:
   //     "https://drive.google.com/drive/u/1/folders/1kFreByJXCuccWGrBi06zXLzuu2U9cWCr",
   // },
-  // {
-  //   /* update handout */
-  //   title: "Lab 7: Debugging",
-  //   out: new Date("19 Oct 2025 10:00:00 EST"),
-  //   due: new Date("26 Oct 2025 23:59:00 EST"),
-  //   link: "https://drive.google.com/file/d/1OhLRk8DbH7IwG0O6BEX9-dBiwQyIeg-H/view?usp=sharing",
-  //   slide:
-  //     "https://docs.google.com/presentation/d/1QSPypFNpXvYQSm9a9Wfgs_OE6C1aydhuZo4QhPcThvU/edit?usp=sharing",
-  //   source:
-  //     "https://drive.google.com/drive/folders/124n2g7In_STTKYIMHqmYbRxq8SA0kM2K?usp=sharing",
-  // },
+  {
+    title: "Lab 7: Environments & Records",
+    out: new Date("27 Oct 2026 14:00:00 EST"),
+    due: new Date("3 Nov 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/1vIrL9bWGCROAGY66syo_vTx_L6N9-7iZ/view?usp=sharing",
+    slide:
+      "https://docs.google.com/presentation/d/1Gu_-F9m2Hsk9opXJ8Dj41ekrDP5ePfeCiLB-xbpBOA4/edit?usp=sharing",
+    source: "",
+  },
   {
     title: "Lab 6: OCaml",
     out: new Date("20 Oct 2026 14:00:00 EST"),
@@ -170,8 +168,7 @@ const homeworks = [
     due: new Date("23 Oct 2026 22:00:00 EST"),
     late: new Date("25 Oct 2026 22:00:00 EST"),
     link: "https://drive.google.com/file/d/1Tq3DEcyTM0VxqQklxbahJFH3tOpIL26B/view?usp=drive_link",
-    source:
-      "",
+    source: "",
   },
   {
     title: "HW 5: More HOPs and Subsets",
