@@ -153,15 +153,14 @@ const homeworks = [
   //   source:
   //     "https://drive.google.com/file/d/1xACBCATwutq_HMJeJ_EweeVi55oXVKwh/view?usp=sharing",
   // },
-  // {
-  //   title: "HW 7: Rackettecita",
-  //   out: new Date("16 Oct 2025 00:00:00 EST"),
-  //   due: new Date("22 Oct 2025 22:00:00 EST"),
-  //   late: new Date("24 Oct 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/11AXw3jU6HoE5wL5Lny4EMGsbOR6yR-An/view?usp=sharing",
-  //   source:
-  //     "https://drive.google.com/drive/folders/11sqyVh7cLpYZlYJpTfngIZKHRtvyXhyQ?usp=sharing",
-  // },
+  {
+    title: "HW 7: Rackettecita",
+    out: new Date("24 Oct 2026 13:00:00 EST"),
+    due: new Date("30 Oct 2026 22:00:00 EST"),
+    late: new Date("1 Nov 2026 22:00:00 EST"),
+    link: "https://drive.google.com/file/d/1YQa__OXBLi38PB5Gx0nL5rdNebmquBwx/view?usp=drive_link",
+    source: "",
+  },
   {
     title: "HW 6: Rulz of Eval and OCaml",
     out: new Date("17 Oct 2026 12:00:00 EST"),
