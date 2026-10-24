@@ -85,11 +85,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1ePGkI7tXV5thvwc1AiP7JOG7NEuTiKFP/view?usp=sharing",
   // },
-  // {
-  //   date: "10/20: The Truth about Closures",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1xojy2XUvZoqy6R7XDrqSwwC2KlFf7KjD/view?usp=sharinghttps://drive.google.com/file/d/1xojy2XUvZoqy6R7XDrqSwwC2KlFf7KjD/view?usp=sharing",
-  // },
+{
+    date: "10/23: Anonymous Procs & Curring",
+    slidesUrl:
+      "https://drive.google.com/file/d/1HaHeETgkBbr3lvPS7zKWXlf5-DakfTnH/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/10VQKfeTbGOtT1SFXgCXVVFRzcgn1xDI7/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b2e622d-8eca-4569-9c72-b4ec0128bf06"
+},
 {
     date: "10/21: Variant Types",
     slidesUrl:
