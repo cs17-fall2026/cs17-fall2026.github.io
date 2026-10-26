@@ -80,11 +80,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1G7ifpxnsrsrgxnhIavBf8Ux_l0t5f-gf/view?usp=sharing",
   // },
-  // {
-  //   date: "10/22: Trees",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1ePGkI7tXV5thvwc1AiP7JOG7NEuTiKFP/view?usp=sharing",
-  // },
+{
+    date: "10/26: More Curring",
+    slidesUrl:
+      "https://drive.google.com/file/d/1nGvRd7icwFp2-LGXwnVEbIlgytxcogru/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/10vecdzCF9OROjNswgkAm1zdVZUQa4Rrd/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4239572d-7374-45c3-9835-b4ef0128d9b6"
+},
 {
     date: "10/23: Anonymous Procs & Curring",
     slidesUrl:
