@@ -81,7 +81,7 @@ const notesData: NoteData[] = [
   //     "https://drive.google.com/file/d/1G7ifpxnsrsrgxnhIavBf8Ux_l0t5f-gf/view?usp=sharing",
   // },
 {
-    date: "10/26: More Curring",
+    date: "10/26: Currying & Output Work",
     slidesUrl:
       "https://drive.google.com/file/d/1nGvRd7icwFp2-LGXwnVEbIlgytxcogru/view?usp=drive_link",
     notesUrl: 
@@ -90,7 +90,7 @@ const notesData: NoteData[] = [
       "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4239572d-7374-45c3-9835-b4ef0128d9b6"
 },
 {
-    date: "10/23: Anonymous Procs & Curring",
+    date: "10/23: Anonymous Procs & Currying",
     slidesUrl:
       "https://drive.google.com/file/d/1HaHeETgkBbr3lvPS7zKWXlf5-DakfTnH/view?usp=drive_link",
     notesUrl: 
