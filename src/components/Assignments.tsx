@@ -156,8 +156,8 @@ const homeworks = [
   {
     title: "HW 7: Rackettecita",
     out: new Date("24 Oct 2026 13:00:00 EST"),
-    due: new Date("30 Oct 2026 22:00:00 EST"),
-    late: new Date("1 Nov 2026 22:00:00 EST"),
+    due: new Date("31 Oct 2026 22:00:00 EST"),
+    late: new Date("2 Nov 2026 22:00:00 EST"),
     link: "https://drive.google.com/file/d/1YQa__OXBLi38PB5Gx0nL5rdNebmquBwx/view?usp=drive_link",
     source: "",
   },
