@@ -75,11 +75,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1cc8ldZcAg-utKtKkQASW-Nf11LscHe3Z/view?usp=sharing",
   // },
-  // {
-  //   date: "10/24: Effective Options",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1G7ifpxnsrsrgxnhIavBf8Ux_l0t5f-gf/view?usp=sharing",
-  // },
+{
+    date: "10/28: Output Work & Let",
+    slidesUrl:
+      "https://drive.google.com/file/d/1fBzDLC6cAOtjulbHGgt17foS_5n-W8LG/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1E5AORD7RLQ7Sbj0IGqTBfQvmWriLxydP/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a8ff8b9-7ebe-47d0-b717-b4f10129690f"
+},
 {
     date: "10/26: Currying & Output Work",
     slidesUrl:
