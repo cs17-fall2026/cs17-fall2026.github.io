@@ -70,11 +70,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1KmlUezChJa96PnR9DHn70PBmEaSVazlg/view?usp=sharing",
   // },
-  // {
-  //   date: "10/27: ADTs, Part 2",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1cc8ldZcAg-utKtKkQASW-Nf11LscHe3Z/view?usp=sharing",
-  // },
+{
+    date: "10/30: Trees and Output Work",
+    slidesUrl:
+      "https://drive.google.com/file/d/14m0fGjTJpmXoPfvfoO1r_GiO3EuWPLEs/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1jOj_epbXq0COo81-WwG-_VclMeaOjykX/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fc6414f-e587-4503-9aaa-b4f301290f5f"
+},
 {
     date: "10/28: Output Work & Let",
     slidesUrl:
