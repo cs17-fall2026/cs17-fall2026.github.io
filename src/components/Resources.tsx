@@ -19,12 +19,12 @@ export default function Resources() {
             <div className="resource-box">Extension Form</div>
           </a>
 
-          {/* <a
-            href="https://drive.google.com/file/d/15-CCasXPyJQoPoHYKDWKDUgSeWmUJoq1/view?usp=sharing"
+          <a
+            href="https://drive.google.com/file/d/1itSTHOZ7Lu6D0-FDP_ej-PH1QJ7peGpb/view?usp=drive_link"
             target="_blank"
           >
-            <div className="resource-box">Common Mistakes</div>
-          </a> */}
+            <div className="resource-box">OCaml Review</div>
+          </a>
           <a
             href="https://drive.google.com/file/d/1r1GGfnqT0AnhRfi7NCNAB7uCxTnvlfpk/view?usp=sharing"
             target="_blank"
