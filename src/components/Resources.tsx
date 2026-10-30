@@ -46,6 +46,13 @@ export default function Resources() {
             <div className="resource-box">OCaml Setup Guide</div>
           </a>
 
+          <a
+            href="https://drive.google.com/file/d/1tt1rwf82gw9B9WEtZ87Byv-6Y7z_2l5Y/view?usp=sharing"
+            target="_blank"
+          >
+            <div className="resource-box">OCaml Review</div>
+          </a>
+
           {/* <a
             href="https://drive.google.com/file/d/1itkdtu-s-V3qu__34-9tmNPvS9EbsFIg/view?usp=sharing"
             target="_blank"
