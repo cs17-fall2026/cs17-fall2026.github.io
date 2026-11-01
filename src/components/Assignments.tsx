@@ -231,7 +231,8 @@ const projects = [
     late: new Date("8 Nov 2026 22:00:00 EST"),
     link: "https://drive.google.com/file/d/1rK0IU1_ZMuzama2dlO7UDWHuEpZhx9cH/view?usp=sharing",
     source: "",
-    gearup: "",
+    gearup:
+      "https://drive.google.com/drive/folders/1tN_ZlERHymXelZKc5CbFz2E2qli8Oq5J?usp=sharing",
   },
   {
     title: "Bignum",
