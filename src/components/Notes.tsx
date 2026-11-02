@@ -65,11 +65,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1VsAWRcEu2cdB2TMjEzNs9WbwU7orRy2l/view?usp=sharing",
   // },
-  // {
-  //   date: "10/31: First-class functions, Environments, and the Final Rules of Evaluation 🎃",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1KmlUezChJa96PnR9DHn70PBmEaSVazlg/view?usp=sharing",
-  // },
+{
+    date: "11/2: Finite-State Machines",
+    slidesUrl:
+      "https://drive.google.com/file/d/1bvHOohPoh0Bv-a4QRWMjPDZuujgwPb-w/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/19D1-v3pz9TSfjNOGbf5pH70BxkyRsyAr/view?usp=drive_link",
+    video:
+      ""
+},
 {
     date: "10/30: Trees and Output Work",
     slidesUrl:
