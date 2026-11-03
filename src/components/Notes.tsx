@@ -72,7 +72,7 @@ const notesData: NoteData[] = [
     notesUrl: 
       "https://drive.google.com/file/d/19D1-v3pz9TSfjNOGbf5pH70BxkyRsyAr/view?usp=drive_link",
     video:
-      ""
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0361f32-ff4a-42c4-9ab6-b4f7010c4db2"
 },
 {
     date: "10/30: Trees and Output Work",
