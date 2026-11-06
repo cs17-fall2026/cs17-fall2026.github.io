@@ -60,11 +60,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1U4SnL0gpvQdJfDVpsFl-k_Hripu1PgLy/view?usp=sharing",
   // },
-  // {
-  //   date: "11/1: Lambdas and Analysis Again",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1VsAWRcEu2cdB2TMjEzNs9WbwU7orRy2l/view?usp=sharing",
-  // },
+{
+    date: "11/4: Writing a Transducer",
+    slidesUrl:
+      "https://drive.google.com/file/d/1aCYgwIAUFR_Ia4kO1NdxxoPC4CXM1tHO/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1LyGLj1wsvDLorpnWkXOODH5bXPu0keJM/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ec0960a-4fcf-455c-9cc2-b4f801393359"
+},
 {
     date: "11/2: Finite-State Machines",
     slidesUrl:
