@@ -55,11 +55,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1k7AI5HNjP_oAlotfBMPsD35TTa9cpt5R/view?usp=sharingß",
   // },
-  // {
-  //   date: "11/5: Analysis Again",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1U4SnL0gpvQdJfDVpsFl-k_Hripu1PgLy/view?usp=sharing",
-  // },
+{
+    date: "11/6: Type Annotations & Modules",
+    slidesUrl:
+      "https://drive.google.com/file/d/1DEgr0iH-YGLvuMN4ncSsABc2jxVmklWv/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1swLC295QNPfXxbsCO8gaUn_AXv3NNRCu/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=66de6748-f017-4cc0-baf9-b4fa01394c2a"
+},
 {
     date: "11/4: Writing a Transducer",
     slidesUrl:
