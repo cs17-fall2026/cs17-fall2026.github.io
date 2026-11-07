@@ -142,20 +142,19 @@ const homeworks = [
   //   source:
   //     "https://drive.google.com/drive/folders/1lstyztXudlXt8RHiS1jKHQ1nlYrEjLR2?usp=sharing",
   // },
-  // {
-  //   title: "HW 8: Analysis Refresher",
-  //   out: new Date("23 Oct 2025 00:00:00 EST"),
-  //   due: new Date("29 Oct 2025 22:00:00 EST"),
-  //   late: new Date("30 Oct 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1STewhh8bAJDM-1u4VP2Fv1UzSjNrZcPH/view?usp=sharing",
-  //   source:
-  //     "https://drive.google.com/file/d/1xACBCATwutq_HMJeJ_EweeVi55oXVKwh/view?usp=sharing",
-  // },
+  {
+    title: "HW 8: ADTs",
+    out: new Date("7 Nov 2026 16:00:00 EST"),
+    due: new Date("13 Nov 2026 23:00:00 EST"),
+    late: new Date("15 Nov 2026 23:00:00 EST"),
+    link: "https://drive.google.com/file/d/1Rg4VYPQCG2WgCjmrOYW82CQkvF2whYvv/view?usp=drive_link",
+    source: "",
+  },
   {
     title: "HW 7: Rackettecita",
     out: new Date("24 Oct 2026 13:00:00 EST"),
-    due: new Date("31 Oct 2026 22:00:00 EST"),
-    late: new Date("2 Nov 2026 22:00:00 EST"),
+    due: new Date("31 Oct 2026 23:00:00 EST"),
+    late: new Date("2 Nov 2026 23:00:00 EST"),
     link: "https://drive.google.com/file/d/1YQa__OXBLi38PB5Gx0nL5rdNebmquBwx/view?usp=drive_link",
     source: "",
   },
@@ -225,8 +224,8 @@ const projects = [
   {
     title: "Rackette",
     out: new Date("30 Oct 2026 15:00:00 EST"),
-    due: new Date("13 Nov 2026 22:00:00 EST"),
-    late: new Date("8 Nov 2026 22:00:00 EST"),
+    due: new Date("13 Nov 2026 23:00:00 EST"),
+    late: new Date("15 Nov 2026 23:00:00 EST"),
     link: "https://drive.google.com/file/d/1rK0IU1_ZMuzama2dlO7UDWHuEpZhx9cH/view?usp=sharing",
     source: "",
     gearup:
