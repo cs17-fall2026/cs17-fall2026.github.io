@@ -37,17 +37,15 @@ const labs = [
   //   source:
   //     "https://drive.google.com/drive/folders/1vZWef1iNTuT78vuW42-tNCNccktgVA_w?usp=drive_link",
   // },
-  // {
-  //   /* update handout */
-  //   title: "Lab 9: ADTs",
-  //   out: new Date("1 Nov 2025 21:00:00 EST"),
-  //   due: new Date("9 Nov 2025 23:59:00 EST"),
-  //   link: "https://drive.google.com/file/d/1sufkqz--4qjb1hRpqQDqSit6BQKL_qRg/view?usp=drive_link",
-  //   slide:
-  //     "https://docs.google.com/presentation/d/12_vpyGx4M_AlsSQb1P_SaKg-pCcCVNkzyrCvZiJhD_U/edit?usp=drive_link",
-  //   source:
-  //     "https://drive.google.com/drive/folders/1aEZbdR-7SMsn-2aCA5iJj1DhM6IknWT9?usp=drive_link",
-  // },
+  {
+    /* update handout */
+    title: "Lab 8: ADTs",
+    out: new Date("10 Nov 2026 15:00:00 EST"),
+    due: new Date("17 Nov 2026 23:59:00 EST"),
+    link: "https://drive.google.com/file/d/1Of4MupYV25iurhF98HQfOjeAvYUB2UeZ/view?usp=sharing",
+    slide:
+      "https://docs.google.com/presentation/d/1vScZiDQmgW0ce5VRn7aVyCrte2xetHVW4sYi1xSVPVI/edit?usp=sharing",
+  },
   // {
   //   /* update handout */
   //   title: "Lab 8: Environments",
