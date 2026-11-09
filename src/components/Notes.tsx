@@ -50,11 +50,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1VhCRvHmJZI7XFuoM_MHo9OkLAH1VDwwT/view?usp=sharing",
   // },
-  // {
-  //   date: "11/7: Even More Analysis",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1k7AI5HNjP_oAlotfBMPsD35TTa9cpt5R/view?usp=sharingß",
-  // },
+{
+    date: "11/9: Comparison & Sorting",
+    slidesUrl:
+      "https://drive.google.com/file/d/1xkT632VyOBdeqRE7a-FuW9kzN1_mFvfo/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1Ow-xbSPTcku1BgVUCU1MNknUhN5gUnAD/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e17616a4-8eda-4b7c-9100-b4fd01392b3c"
+},
 {
     date: "11/6: Type Annotations & Modules",
     slidesUrl:
