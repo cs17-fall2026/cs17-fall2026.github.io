@@ -38,13 +38,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1ArzCCGbRM2lApNrE9KhYeuWEAIVNlpR1/view?usp=sharing",
   // },
-  // {
-  //   date: "11/12: Code Polishing",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1Fp2ILKkAG_cMGtrAqUdYqXluS0LLkXV0/view?usp=sharing",
-  //   codeUrl:
-  //     "https://docs.google.com/document/d/1JgzJksrRRCTfeAwpBKp8V-sNOqGCFTHDNyka4_zLj3s/edit?tab=t.0",
-  // },
+{
+    date: "11/13: Merge Sort and BSTs",
+    slidesUrl:
+      "https://drive.google.com/file/d/1jzBiU5gI9keO6bHuO0Yv4zT0ymFtHZMD/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/14OYQQi7Ha0y0Bvmp-puSbL0BDRVqUMsS/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6cb9e9f2-f3be-4257-9a3f-b50101393c36"
+},
 {
     date: "11/11: Sorting with Insertion",
     slidesUrl:
