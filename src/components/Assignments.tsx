@@ -26,17 +26,15 @@ const labs = [
   //   source:
   //     "https://drive.google.com/drive/folders/1OIIkUbIMMX6I6EMVHXyym2bSH0W2tOx0?usp=sharing",
   // },
-  // {
-  //   /* update handout */
-  //   title: "Lab 10: Game",
-  //   out: new Date("9 Nov 2025 00:00:00 EST"),
-  //   due: new Date("17 Nov 2025 13:59:00 EST"),
-  //   link: "https://drive.google.com/file/d/12A8TK8HdhcYWCED2Fl3oZakBnQ7THFz5/view?usp=sharing",
-  //   slide:
-  //     "https://docs.google.com/presentation/d/1ax9NlAGB9gT6ZSSnj4TXA-ok8DIm2ygT1FFWZOQOB-k/edit?usp=drive_link",
-  //   source:
-  //     "https://drive.google.com/drive/folders/1vZWef1iNTuT78vuW42-tNCNccktgVA_w?usp=drive_link",
-  // },
+  {
+    /* update handout */
+    title: "Lab 9: Game",
+    out: new Date("17 Nov 2026 15:00:00 EST"),
+    due: new Date("25 Nov 2026 23:59:00 EST"),
+    link: "https://drive.google.com/file/d/1JHciHbFPXJceZL_80UcLUJ_rswQ_hTee/view?usp=sharing",
+    slide:
+      "https://docs.google.com/presentation/d/1KHpX-OtehQCLHAPxo06wkYQUfum3wdFc9xnDBARlWzY/edit?usp=sharing",
+  },
   {
     /* update handout */
     title: "Lab 8: ADTs",
@@ -46,17 +44,6 @@ const labs = [
     slide:
       "https://docs.google.com/presentation/d/1vScZiDQmgW0ce5VRn7aVyCrte2xetHVW4sYi1xSVPVI/edit?usp=sharing",
   },
-  // {
-  //   /* update handout */
-  //   title: "Lab 8: Environments",
-  //   out: new Date("26 Oct 2025 10:00:00 EST"),
-  //   due: new Date("3 Nov 2025 23:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1vHEgKyFMZ9kt9aLSKGVJLFjMZlrmNKso/view?usp=sharing",
-  //   slide:
-  //     "https://docs.google.com/presentation/d/1EH1e-pSyVcwBkBjv6ttp9Jr1zz9K4UXj1m27lJ6vNMM/edit?usp=sharing",
-  //   source:
-  //     "https://drive.google.com/drive/u/1/folders/1kFreByJXCuccWGrBi06zXLzuu2U9cWCr",
-  // },
   {
     title: "Lab 7: Environments & Records",
     out: new Date("27 Oct 2026 14:00:00 EST"),
