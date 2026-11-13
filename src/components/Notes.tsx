@@ -45,11 +45,15 @@ const notesData: NoteData[] = [
   //   codeUrl:
   //     "https://docs.google.com/document/d/1JgzJksrRRCTfeAwpBKp8V-sNOqGCFTHDNyka4_zLj3s/edit?tab=t.0",
   // },
-  // {
-  //   date: "11/10: A Whirlwind Tour of Sorting",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1VhCRvHmJZI7XFuoM_MHo9OkLAH1VDwwT/view?usp=sharing",
-  // },
+{
+    date: "11/11: Sorting with Insertion",
+    slidesUrl:
+      "https://drive.google.com/file/d/144C7RVxqoRFvt2iEfQjZ40QRLDzQvqpD/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1iWyNyyy2o13wr0AzX7suXXJ_LtZJm4M5/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5bd07e47-a133-4e2d-aae5-b4ff0139ad95"
+},
 {
     date: "11/9: Comparison & Sorting",
     slidesUrl:
