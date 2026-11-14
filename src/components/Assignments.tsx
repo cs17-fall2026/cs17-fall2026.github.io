@@ -120,15 +120,14 @@ const homeworks = [
   //   source:
   //     "https://drive.google.com/drive/folders/1byjhvFy1fcS8ArceeS03CEKG_ogCeBap?usp=sharing",
   // },
-  // {
-  //   title: "HW 9: Trees, Trees, ...and Lists",
-  //   out: new Date("30 Oct 2025 01:00:00 EST"),
-  //   due: new Date("5 Nov 2025 22:00:00 EST"),
-  //   late: new Date("6 Nov 2025 22:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1-qK2jDyZlv2umBFI0jECu5iWlNb2HrAN/view?usp=sharing",
-  //   source:
-  //     "https://drive.google.com/drive/folders/1lstyztXudlXt8RHiS1jKHQ1nlYrEjLR2?usp=sharing",
-  // },
+  {
+    title: "HW 9: Trees, Trees, ...and Lists",
+    out: new Date("14 Nov 2026 15:00:00 EST"),
+    due: new Date("21 Nov 2026 23:00:00 EST"),
+    late: new Date("23 Nov 2026 23:00:00 EST"),
+    link: "https://drive.google.com/file/d/1sDsdfklYYzoiYerv1NYH0DjdYDYTfhW9/view?usp=drive_link",
+    source: "",
+  },
   {
     title: "HW 8: ADTs",
     out: new Date("7 Nov 2026 16:00:00 EST"),
