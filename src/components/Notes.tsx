@@ -33,11 +33,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/18M8BPf9Ov5-1DWFQyScZieS-T7ZKXqpJ/view?usp=sharing",
   // },
-  // {
-  //   date: "11/14: Games, Part 1",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1ArzCCGbRM2lApNrE9KhYeuWEAIVNlpR1/view?usp=sharing",
-  // },
+{
+    date: "11/16: TNF and Tree Search",
+    slidesUrl:
+      "https://drive.google.com/file/d/1oDp9JL_9PloqsEie9WDZE5OqH43xaP_2/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1kIAGL974gkDyqi8k-sxXJ_g2Y21liIx0/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8ebd13e-fab0-477b-8cd6-b5040139d1fc"
+},
 {
     date: "11/13: Merge Sort and BSTs",
     slidesUrl:
