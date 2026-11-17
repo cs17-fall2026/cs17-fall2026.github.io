@@ -29,7 +29,7 @@ const labs = [
   {
     /* update handout */
     title: "Lab 9: Game",
-    out: new Date("17 Nov 2026 15:00:00 EST"),
+    out: new Date("17 Nov 2026 13:00:00 EST"),
     due: new Date("25 Nov 2026 23:59:00 EST"),
     link: "https://drive.google.com/file/d/1JHciHbFPXJceZL_80UcLUJ_rswQ_hTee/view?usp=sharing",
     slide:
