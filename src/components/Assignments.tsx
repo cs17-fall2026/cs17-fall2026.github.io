@@ -196,17 +196,15 @@ const homeworks = [
 ];
 
 const projects = [
-  // {
-  //   title: "Game",
-  //   out: new Date("10 Nov 2025 12:00:00 EST"),
-  //   due: new Date("5 Dec 2025 23:00:00 EST"),
-  //   late: new Date("6 Dec 2025 23:00:00 EST"),
-  //   link: "",
-  //   source:
-  //     "",
-  //   gearup:
-  //     "",
-  // },
+  {
+    title: "Game",
+    out: new Date("20 Nov 2026 12:00:00 EST"),
+    due: new Date("10 Dec 2026 23:00:00 EST"),
+    late: new Date("12 Dec 2026 23:00:00 EST"),
+    link: "https://drive.google.com/file/d/1mGhuOm102B8qlWUb5k-YY70mHHpQLrV6/view?usp=sharing",
+    gearup:
+      "https://drive.google.com/drive/folders/1aNfDPT45YWuj86UeQw0mViR3v_cA4VD8?usp=sharing",
+  },
   {
     title: "Rackette",
     out: new Date("30 Oct 2026 15:00:00 EST"),
