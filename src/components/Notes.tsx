@@ -23,16 +23,24 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1Oz5ogxxozIl9f7X6szg7VYYBK8sLxPtw/view?usp=sharing",
   // },
-  // {
-  //   date: "11/19: AB Pruning",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1XIIsruSZ3HSC-du-Fcpe5L2R9O9qLUOc/view?usp=sharing",
-  // },
-  // {
-  //   date: "11/17: Games, Part 2",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/18M8BPf9Ov5-1DWFQyScZieS-T7ZKXqpJ/view?usp=sharing",
-  // },
+{
+    date: "11/20: Introduction to Game",
+    slidesUrl:
+      "https://drive.google.com/file/d/1HLmCKqePHY5rGjk6XI_5--wMl_EQ6cHN/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1-xs0D39pwpQi1lcDobcBznlj7CULom8v/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65d1a140-8957-4602-912b-b50801473b29"
+},
+{
+    date: "11/18: Knapsack",
+    slidesUrl:
+      "https://drive.google.com/file/d/1C9bol9_P30rJ2RXddNRxUH3B4kOsMZV-/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1C_42Ik6O7kZfCLstLL3HgHlKQtCfJS4n/view?usp=drive_link",
+    video:
+      ""
+},
 {
     date: "11/16: TNF and Tree Search",
     slidesUrl:
