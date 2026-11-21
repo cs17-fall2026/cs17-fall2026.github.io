@@ -111,15 +111,14 @@ const labs = [
 ];
 
 const homeworks = [
-  // {
-  //   title: "HW 10: Game Tools",
-  //   out: new Date("13 Nov 2025 00:00:00 EST"),
-  //   due: new Date("19 Nov 2025 23:00:00 EST"),
-  //   late: new Date("20 Nov 2025 23:00:00 EST"),
-  //   link: "https://drive.google.com/file/d/1lOs_HpUDit1KXg0be-uGWgqthFRIu-I5/view?usp=sharing",
-  //   source:
-  //     "https://drive.google.com/drive/folders/1byjhvFy1fcS8ArceeS03CEKG_ogCeBap?usp=sharing",
-  // },
+  {
+    title: "HW 10: Game Tools",
+    out: new Date("21 Nov 2026 16:00:00 EST"),
+    due: new Date("2 Dec 2026 23:00:00 EST"),
+    late: new Date("4 Dec 2026 23:00:00 EST"),
+    link: "https://drive.google.com/file/d/1-cy8S2hX1zqQohJNAX7vX0KBh5IOiD4g/view?usp=drive_link",
+    source: "",
+  },
   {
     title: "HW 9: Trees, Trees, ...and Lists",
     out: new Date("14 Nov 2026 15:00:00 EST"),
