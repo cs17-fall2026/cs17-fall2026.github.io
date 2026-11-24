@@ -18,11 +18,15 @@ const notesData: NoteData[] = [
   //   slidesUrl:
   //     "https://drive.google.com/file/d/1aAD0jPJKkYfXoXdr917jrVekCdrKerrn/view?usp=sharing",
   // },
-  // {
-  //   date: "11/21: All you need is Lambda",
-  //   slidesUrl:
-  //     "https://drive.google.com/file/d/1Oz5ogxxozIl9f7X6szg7VYYBK8sLxPtw/view?usp=sharing",
-  // },
+{
+    date: "11/23: Game-Tree Search",
+    slidesUrl:
+      "https://drive.google.com/file/d/1J7dJrfbDlipUxZpAbzS0YjFYRSKA8sOt/view?usp=drive_link",
+    notesUrl: 
+      "https://drive.google.com/file/d/1Q6ArHHMaI80Qme-H10CiMr_1FboRxfQn/view?usp=drive_link",
+    video:
+      "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0deca19-fdb8-4a72-9c5c-b50b013925e1"
+},
 {
     date: "11/20: Introduction to Game",
     slidesUrl:
